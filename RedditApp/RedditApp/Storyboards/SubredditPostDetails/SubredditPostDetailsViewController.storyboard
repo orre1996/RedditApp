@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Y6W-OH-hqX">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Subreddit Post Details View Controller-->
+        <scene sceneID="s0d-6b-0kx">
+            <objects>
+                <viewController id="Y6W-OH-hqX" customClass="SubredditPostDetailsViewController" customModule="RedditApp" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="5EZ-qb-Rvc">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="uPw-lQ-jPG">
+                                <rect key="frame" x="0.0" y="58.999999999999986" width="393" height="209.66666666666663"/>
+                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="uPw-lQ-jPG" secondAttribute="height" multiplier="15:8" id="rIy-yt-q44"/>
+                                </constraints>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="fd5-gO-S73">
+                                <rect key="frame" x="0.0" y="268.66666666666669" width="393" height="131.33333333333331"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Title label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9Qt-NO-Rtf">
+                                        <rect key="frame" x="16" y="15.999999999999998" width="361" height="19.333333333333329"/>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                                        <color key="textColor" name="CardTextColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="hand.thumbsup.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="obT-Uk-Trz">
+                                        <rect key="frame" x="16" y="51.999999999999979" width="24" height="22.666666666666679"/>
+                                        <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="24" id="6g1-ak-N9J"/>
+                                            <constraint firstAttribute="height" constant="24" id="tfR-dt-Gbd"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Number of upvotes" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MoK-Nf-B0Y">
+                                        <rect key="frame" x="48" y="52.666666666666629" width="146" height="21"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Number of comments" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="drd-B9-IiV">
+                                        <rect key="frame" x="48" y="92.666666666666629" width="166" height="21"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="bubble.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="JfH-wR-apj">
+                                        <rect key="frame" x="16" y="92.666666666666643" width="24" height="23"/>
+                                        <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="24" id="Zm5-44-ir0"/>
+                                            <constraint firstAttribute="width" constant="24" id="oCB-2z-DpI"/>
+                                        </constraints>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" name="CardBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstItem="drd-B9-IiV" firstAttribute="leading" secondItem="JfH-wR-apj" secondAttribute="trailing" constant="8" id="48o-QP-x1p"/>
+                                    <constraint firstItem="drd-B9-IiV" firstAttribute="centerY" secondItem="JfH-wR-apj" secondAttribute="centerY" id="4dV-k3-F8H"/>
+                                    <constraint firstItem="9Qt-NO-Rtf" firstAttribute="top" secondItem="fd5-gO-S73" secondAttribute="top" constant="16" id="5ns-Yi-cMz"/>
+                                    <constraint firstItem="MoK-Nf-B0Y" firstAttribute="leading" secondItem="obT-Uk-Trz" secondAttribute="trailing" constant="8" id="BIC-4u-Uvu"/>
+                                    <constraint firstItem="JfH-wR-apj" firstAttribute="leading" secondItem="obT-Uk-Trz" secondAttribute="leading" id="Bnp-GX-kQn"/>
+                                    <constraint firstAttribute="trailing" secondItem="9Qt-NO-Rtf" secondAttribute="trailing" constant="16" id="FXb-8c-fge"/>
+                                    <constraint firstItem="MoK-Nf-B0Y" firstAttribute="centerY" secondItem="obT-Uk-Trz" secondAttribute="centerY" id="JZx-mM-NDl"/>
+                                    <constraint firstAttribute="bottom" secondItem="JfH-wR-apj" secondAttribute="bottom" constant="16" id="OL1-4m-XQn"/>
+                                    <constraint firstItem="JfH-wR-apj" firstAttribute="top" secondItem="obT-Uk-Trz" secondAttribute="bottom" constant="16" id="Q4x-zW-950"/>
+                                    <constraint firstItem="obT-Uk-Trz" firstAttribute="leading" secondItem="9Qt-NO-Rtf" secondAttribute="leading" id="kNc-FP-5s0"/>
+                                    <constraint firstItem="obT-Uk-Trz" firstAttribute="top" secondItem="9Qt-NO-Rtf" secondAttribute="bottom" constant="16" id="naU-rf-KPX"/>
+                                    <constraint firstItem="9Qt-NO-Rtf" firstAttribute="leading" secondItem="fd5-gO-S73" secondAttribute="leading" constant="16" id="t9W-rI-9bI"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="vDu-zF-Fre"/>
+                        <color key="backgroundColor" name="PageBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="fd5-gO-S73" secondAttribute="trailing" id="73A-og-9xo"/>
+                            <constraint firstItem="fd5-gO-S73" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" id="78L-tI-8YU"/>
+                            <constraint firstItem="uPw-lQ-jPG" firstAttribute="top" secondItem="vDu-zF-Fre" secondAttribute="top" id="EAA-b0-wwq"/>
+                            <constraint firstItem="fd5-gO-S73" firstAttribute="top" secondItem="uPw-lQ-jPG" secondAttribute="bottom" id="OGF-F7-EJC"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="uPw-lQ-jPG" secondAttribute="trailing" id="QAJ-4y-yWO"/>
+                            <constraint firstItem="uPw-lQ-jPG" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" id="RJv-e7-WFE"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="commentsLabel" destination="drd-B9-IiV" id="JOx-am-Qbf"/>
+                        <outlet property="postImageView" destination="uPw-lQ-jPG" id="SVl-Ar-3rY"/>
+                        <outlet property="postTitleLabel" destination="9Qt-NO-Rtf" id="NS6-fi-tvq"/>
+                        <outlet property="upvotesLabel" destination="MoK-Nf-B0Y" id="xdW-3k-DeZ"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ief-a0-LHa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="119.84732824427481" y="-2.1126760563380285"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="bubble.fill" catalog="system" width="128" height="110"/>
+        <image name="hand.thumbsup.fill" catalog="system" width="128" height="121"/>
+        <namedColor name="CardBackgroundColor">
+            <color red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="CardTextColor">
+            <color red="0.12549019607843137" green="0.12549019607843137" blue="0.12549019607843137" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="PageBackgroundColor">
+            <color red="0.97647058823529409" green="0.96078431372549022" blue="0.96078431372549022" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

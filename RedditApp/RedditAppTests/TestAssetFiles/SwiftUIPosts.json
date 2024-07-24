@@ -1,0 +1,4436 @@
+{
+  "kind": "Listing",
+  "data": {
+    "after": "t3_1e9l9t3",
+    "dist": 25,
+    "modhash": "q52myhohlbba75c52d78b8c27ffaa0538dcad8feea5f33d276",
+    "geo_filter": null,
+    "children": [
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "Code : https://www.patreon.com/posts/swiftui-108732994?utm_medium=clipboard_copy&amp;utm_source=copyLink&amp;utm_campaign=postshare_creator&amp;utm_content=join_link",
+          "author_fullname": "t2_s2gs6sqq9",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "SwiftUI rotationEffect",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 140,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1eb1z6t",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 0.86,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 10,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": {
+            "reddit_video": {
+              "bitrate_kbps": 2400,
+              "fallback_url": "https://v.redd.it/6idejpxo1hed1/DASH_720.mp4?source=fallback",
+              "has_audio": false,
+              "height": 830,
+              "width": 720,
+              "scrubber_media_url": "https://v.redd.it/6idejpxo1hed1/DASH_96.mp4",
+              "dash_url": "https://v.redd.it/6idejpxo1hed1/DASHPlaylist.mpd?a=1724433833%2CYzNkZGY2NjZkNzc0ZjBjOGE5MTVkZTIxY2QwMmVlMDQyOTQ4YmQzN2Q2ZDc3NmZkNDExZDQwMTIzOTU0M2Q2MQ%3D%3D&amp;v=1&amp;f=sd",
+              "duration": 16,
+              "hls_url": "https://v.redd.it/6idejpxo1hed1/HLSPlaylist.m3u8?a=1724433833%2CZTEyYjI1NDc4Zjg0M2VhZmUxMDcxZWQzMjY4OTNkY2U2ODg0ZTJkZmY2NmVkYWM5MDY1OTVmZGUyMmFmYTFkNA%3D%3D&amp;v=1&amp;f=sd",
+              "is_gif": false,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_reddit_media_domain": true,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 10,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "https://external-preview.redd.it/Mzd6YXB1dW8xaGVkMU7rnSGZnXx2btwdHazN8v3zrA-M1QOAroOnltVNic5i.png?width=140&amp;height=140&amp;crop=140:140,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=f4bdbc9ae8c6728fbdb73bc671e2b87cd6b826ca",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "post_hint": "hosted:video",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1721829020.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "v.redd.it",
+          "allow_live_comments": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Code : &lt;a href=\"https://www.patreon.com/posts/swiftui-108732994?utm_medium=clipboard_copy&amp;amp;utm_source=copyLink&amp;amp;utm_campaign=postshare_creator&amp;amp;utm_content=join_link\"&gt;https://www.patreon.com/posts/swiftui-108732994?utm_medium=clipboard_copy&amp;amp;utm_source=copyLink&amp;amp;utm_campaign=postshare_creator&amp;amp;utm_content=join_link&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "url_overridden_by_dest": "https://v.redd.it/6idejpxo1hed1",
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://external-preview.redd.it/Mzd6YXB1dW8xaGVkMU7rnSGZnXx2btwdHazN8v3zrA-M1QOAroOnltVNic5i.png?format=pjpg&amp;auto=webp&amp;s=792ff49456758986af81ebbb44564ba75dad9921",
+                  "width": 936,
+                  "height": 1080
+                },
+                "resolutions": [
+                  {
+                    "url": "https://external-preview.redd.it/Mzd6YXB1dW8xaGVkMU7rnSGZnXx2btwdHazN8v3zrA-M1QOAroOnltVNic5i.png?width=108&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=3219df617ef05c48dd85f57bbe69289407039039",
+                    "width": 108,
+                    "height": 124
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/Mzd6YXB1dW8xaGVkMU7rnSGZnXx2btwdHazN8v3zrA-M1QOAroOnltVNic5i.png?width=216&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=b1d6f9535337141c8f4c596a0825e8f95381ee41",
+                    "width": 216,
+                    "height": 249
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/Mzd6YXB1dW8xaGVkMU7rnSGZnXx2btwdHazN8v3zrA-M1QOAroOnltVNic5i.png?width=320&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=415915843b16daa1a9eb0a05238100e4a5476b73",
+                    "width": 320,
+                    "height": 369
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/Mzd6YXB1dW8xaGVkMU7rnSGZnXx2btwdHazN8v3zrA-M1QOAroOnltVNic5i.png?width=640&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=b36fa3d940f65c84aa64e5d36695bd0a9c4981cc",
+                    "width": 640,
+                    "height": 738
+                  }
+                ],
+                "variants": {
+                  
+                },
+                "id": "Mzd6YXB1dW8xaGVkMU7rnSGZnXx2btwdHazN8v3zrA-M1QOAroOnltVNic5i"
+              }
+            ],
+            "enabled": false
+          },
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "",
+          "id": "1eb1z6t",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "SUCODEY",
+          "discussion_type": null,
+          "num_comments": 0,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1eb1z6t/swiftui_rotationeffect/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://v.redd.it/6idejpxo1hed1",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721829020.0,
+          "num_crossposts": 0,
+          "media": {
+            "reddit_video": {
+              "bitrate_kbps": 2400,
+              "fallback_url": "https://v.redd.it/6idejpxo1hed1/DASH_720.mp4?source=fallback",
+              "has_audio": false,
+              "height": 830,
+              "width": 720,
+              "scrubber_media_url": "https://v.redd.it/6idejpxo1hed1/DASH_96.mp4",
+              "dash_url": "https://v.redd.it/6idejpxo1hed1/DASHPlaylist.mpd?a=1724433833%2CYzNkZGY2NjZkNzc0ZjBjOGE5MTVkZTIxY2QwMmVlMDQyOTQ4YmQzN2Q2ZDc3NmZkNDExZDQwMTIzOTU0M2Q2MQ%3D%3D&amp;v=1&amp;f=sd",
+              "duration": 16,
+              "hls_url": "https://v.redd.it/6idejpxo1hed1/HLSPlaylist.m3u8?a=1724433833%2CZTEyYjI1NDc4Zjg0M2VhZmUxMDcxZWQzMjY4OTNkY2U2ODg0ZTJkZmY2NmVkYWM5MDY1OTVmZGUyMmFmYTFkNA%3D%3D&amp;v=1&amp;f=sd",
+              "is_gif": false,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_video": true
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "",
+          "author_fullname": "t2_4wzkf66d",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Common Misconceptions About SwiftUI",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": "",
+          "downs": 0,
+          "thumbnail_height": 73,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1eazxsl",
+          "quarantine": false,
+          "link_flair_text_color": "light",
+          "upvote_ratio": 0.88,
+          "author_flair_background_color": null,
+          "ups": 12,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": "Tutorial",
+          "can_mod_post": false,
+          "score": 12,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "https://b.thumbs.redditmedia.com/OR57_lW6Qolnh6EHIxkOSuTS6w7Ux72HmKZm3OINnhY.jpg",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "post_hint": "link",
+          "content_categories": null,
+          "is_self": false,
+          "subreddit_type": "public",
+          "created": 1721823234.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "fatbobman.com",
+          "allow_live_comments": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "url_overridden_by_dest": "https://fatbobman.com/en/posts/common-misconceptions-about-swiftui/",
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://external-preview.redd.it/iRtiEqQcaDyiByWE7Q4IOlGWSHB5whsTkB6aZLLmCGE.jpg?auto=webp&amp;s=a5e344be2b117fa09b1ed26ad0f17ce7af078e5d",
+                  "width": 1208,
+                  "height": 636
+                },
+                "resolutions": [
+                  {
+                    "url": "https://external-preview.redd.it/iRtiEqQcaDyiByWE7Q4IOlGWSHB5whsTkB6aZLLmCGE.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=8c8eb65d1a80e5809af5c3fb710915d1e351bf7f",
+                    "width": 108,
+                    "height": 56
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/iRtiEqQcaDyiByWE7Q4IOlGWSHB5whsTkB6aZLLmCGE.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=35e27c42b9def7078c77dbca1a68d502e2cad0d7",
+                    "width": 216,
+                    "height": 113
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/iRtiEqQcaDyiByWE7Q4IOlGWSHB5whsTkB6aZLLmCGE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ef0c15750d1eaf0c562b6989752fbfdff5f2c902",
+                    "width": 320,
+                    "height": 168
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/iRtiEqQcaDyiByWE7Q4IOlGWSHB5whsTkB6aZLLmCGE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5171a82c9204242101c7a020c959c71997ac842e",
+                    "width": 640,
+                    "height": 336
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/iRtiEqQcaDyiByWE7Q4IOlGWSHB5whsTkB6aZLLmCGE.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=1373730da20a625ea14c4cb8758b92a3145d392e",
+                    "width": 960,
+                    "height": 505
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/iRtiEqQcaDyiByWE7Q4IOlGWSHB5whsTkB6aZLLmCGE.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=463751ed7c8b90cf867be5da8c74a40ef09a879a",
+                    "width": 1080,
+                    "height": 568
+                  }
+                ],
+                "variants": {
+                  
+                },
+                "id": "wSmWZiUgCd005CX_uVyRwEj9NHBVqmhLRccoevFZ6dA"
+              }
+            ],
+            "enabled": false
+          },
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "link_flair_template_id": "40f2eeca-d822-11e9-8ad3-0efac9e7a64a",
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "mod_note": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "num_reports": null,
+          "removal_reason": null,
+          "link_flair_background_color": "#349e48",
+          "id": "1eazxsl",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "fatbobman3000",
+          "discussion_type": null,
+          "num_comments": 4,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1eazxsl/common_misconceptions_about_swiftui/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://fatbobman.com/en/posts/common-misconceptions-about-swiftui/",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721823234.0,
+          "num_crossposts": 0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "Video tutorial: https://youtu.be/-6rRaKp36s0?si=-69iWssSW7DwkjPz",
+          "author_fullname": "t2_s2gs6sqq9",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "SwiftUI: Wallet Card Transition",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 102,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1eb0g6g",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 0.85,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 9,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": {
+            "reddit_video": {
+              "bitrate_kbps": 5000,
+              "fallback_url": "https://v.redd.it/lmk0bc32pged1/DASH_1080.mp4?source=fallback",
+              "has_audio": true,
+              "height": 1080,
+              "width": 1478,
+              "scrubber_media_url": "https://v.redd.it/lmk0bc32pged1/DASH_96.mp4",
+              "dash_url": "https://v.redd.it/lmk0bc32pged1/DASHPlaylist.mpd?a=1724433833%2CZjJjMGZiZDE0YjlkN2NiYTBhM2I4OTE0MzE4Y2NhM2I1NWFlZjI0ZDQ3MmE2YTUxZTM4NDUzYTAzY2FkMTI1Ng%3D%3D&amp;v=1&amp;f=sd",
+              "duration": 19,
+              "hls_url": "https://v.redd.it/lmk0bc32pged1/HLSPlaylist.m3u8?a=1724433833%2CYjNjYWI1Mzc3NjVjMDdjNzY0M2NlZWI2ZWE4YTFkYmJlM2QxNDM4MTE2MDljNTNhNDM3NWJkY2VhNTE0MGE5NQ%3D%3D&amp;v=1&amp;f=sd",
+              "is_gif": false,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_reddit_media_domain": true,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 9,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "https://external-preview.redd.it/eWdtbHI1ejFwZ2VkMa3IHz-5nm7T9g2bWAzpwczKuzeAyKJHgD74QZlDWZua.png?width=140&amp;height=102&amp;crop=140:102,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=b20eda252710fd2fa12b22d837fdbd7056860492",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "post_hint": "hosted:video",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1721824774.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "v.redd.it",
+          "allow_live_comments": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Video tutorial: &lt;a href=\"https://youtu.be/-6rRaKp36s0?si=-69iWssSW7DwkjPz\"&gt;https://youtu.be/-6rRaKp36s0?si=-69iWssSW7DwkjPz&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": true,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "url_overridden_by_dest": "https://v.redd.it/lmk0bc32pged1",
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://external-preview.redd.it/eWdtbHI1ejFwZ2VkMa3IHz-5nm7T9g2bWAzpwczKuzeAyKJHgD74QZlDWZua.png?format=pjpg&amp;auto=webp&amp;s=748be070d5fce58850b9b9107154174de5973b1f",
+                  "width": 1478,
+                  "height": 1080
+                },
+                "resolutions": [
+                  {
+                    "url": "https://external-preview.redd.it/eWdtbHI1ejFwZ2VkMa3IHz-5nm7T9g2bWAzpwczKuzeAyKJHgD74QZlDWZua.png?width=108&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=247d252c3ad8ffca3f23447f3396fc7fe4167546",
+                    "width": 108,
+                    "height": 78
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/eWdtbHI1ejFwZ2VkMa3IHz-5nm7T9g2bWAzpwczKuzeAyKJHgD74QZlDWZua.png?width=216&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=e9539ce418bfbda43398212fe620aaad67732846",
+                    "width": 216,
+                    "height": 157
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/eWdtbHI1ejFwZ2VkMa3IHz-5nm7T9g2bWAzpwczKuzeAyKJHgD74QZlDWZua.png?width=320&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=91f3fe3a43f3de828e387a9539bbb2dfd31bfba1",
+                    "width": 320,
+                    "height": 233
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/eWdtbHI1ejFwZ2VkMa3IHz-5nm7T9g2bWAzpwczKuzeAyKJHgD74QZlDWZua.png?width=640&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=e329927d61cccba5a78348a782795dcf49b874f0",
+                    "width": 640,
+                    "height": 467
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/eWdtbHI1ejFwZ2VkMa3IHz-5nm7T9g2bWAzpwczKuzeAyKJHgD74QZlDWZua.png?width=960&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=f041cd39de0d867f1b3858bade1813c2c244d56e",
+                    "width": 960,
+                    "height": 701
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/eWdtbHI1ejFwZ2VkMa3IHz-5nm7T9g2bWAzpwczKuzeAyKJHgD74QZlDWZua.png?width=1080&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=67b18bfab221ba39c945cf7a561bac9d1a7598b6",
+                    "width": 1080,
+                    "height": 789
+                  }
+                ],
+                "variants": {
+                  
+                },
+                "id": "eWdtbHI1ejFwZ2VkMa3IHz-5nm7T9g2bWAzpwczKuzeAyKJHgD74QZlDWZua"
+              }
+            ],
+            "enabled": false
+          },
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "",
+          "id": "1eb0g6g",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "SUCODEY",
+          "discussion_type": null,
+          "num_comments": 0,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1eb0g6g/swiftui_wallet_card_transition/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://v.redd.it/lmk0bc32pged1",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721824774.0,
+          "num_crossposts": 0,
+          "media": {
+            "reddit_video": {
+              "bitrate_kbps": 5000,
+              "fallback_url": "https://v.redd.it/lmk0bc32pged1/DASH_1080.mp4?source=fallback",
+              "has_audio": true,
+              "height": 1080,
+              "width": 1478,
+              "scrubber_media_url": "https://v.redd.it/lmk0bc32pged1/DASH_96.mp4",
+              "dash_url": "https://v.redd.it/lmk0bc32pged1/DASHPlaylist.mpd?a=1724433833%2CZjJjMGZiZDE0YjlkN2NiYTBhM2I4OTE0MzE4Y2NhM2I1NWFlZjI0ZDQ3MmE2YTUxZTM4NDUzYTAzY2FkMTI1Ng%3D%3D&amp;v=1&amp;f=sd",
+              "duration": 19,
+              "hls_url": "https://v.redd.it/lmk0bc32pged1/HLSPlaylist.m3u8?a=1724433833%2CYjNjYWI1Mzc3NjVjMDdjNzY0M2NlZWI2ZWE4YTFkYmJlM2QxNDM4MTE2MDljNTNhNDM3NWJkY2VhNTE0MGE5NQ%3D%3D&amp;v=1&amp;f=sd",
+              "is_gif": false,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_video": true
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "",
+          "author_fullname": "t2_s2gs6sqq9",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "SwiftUI verticalSizeClass",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 140,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1eb0l1l",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 0.84,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 9,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": {
+            "reddit_video": {
+              "bitrate_kbps": 2400,
+              "fallback_url": "https://v.redd.it/18161ic8qged1/DASH_720.mp4?source=fallback",
+              "has_audio": false,
+              "height": 830,
+              "width": 720,
+              "scrubber_media_url": "https://v.redd.it/18161ic8qged1/DASH_96.mp4",
+              "dash_url": "https://v.redd.it/18161ic8qged1/DASHPlaylist.mpd?a=1724433833%2CODIzMmU2NWEwNzc1OWExZjQ2YjgwZjFhZGEzN2Y5ZjRjNTMxNTliZTYxNmUwMWE4YzAwYWQ4YjEwMmM0YWZlNA%3D%3D&amp;v=1&amp;f=sd",
+              "duration": 17,
+              "hls_url": "https://v.redd.it/18161ic8qged1/HLSPlaylist.m3u8?a=1724433833%2CNTQxNmE5ZDFlNWE2MWY1OWE1MjAzNWQ3MTE5NDY2OWI1ODY2Mzg2ZGU3OGJmYzJkN2FhYzA2N2YyZjg1NDQ0Zg%3D%3D&amp;v=1&amp;f=sd",
+              "is_gif": false,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_reddit_media_domain": true,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 9,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "https://external-preview.redd.it/djhpODVmOThxZ2VkMcDgb9lIMNOvng7v1EEgr0juN7XDQtc7UkF2OmsWYKCZ.png?width=140&amp;height=140&amp;crop=140:140,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=c1738ec978d81c1f04e1e7023eabdcf44ef37438",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "post_hint": "hosted:video",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1721825166.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "v.redd.it",
+          "allow_live_comments": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "url_overridden_by_dest": "https://v.redd.it/18161ic8qged1",
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://external-preview.redd.it/djhpODVmOThxZ2VkMcDgb9lIMNOvng7v1EEgr0juN7XDQtc7UkF2OmsWYKCZ.png?format=pjpg&amp;auto=webp&amp;s=219787375e55f9cc6e8a21ce24174d87418913cf",
+                  "width": 936,
+                  "height": 1080
+                },
+                "resolutions": [
+                  {
+                    "url": "https://external-preview.redd.it/djhpODVmOThxZ2VkMcDgb9lIMNOvng7v1EEgr0juN7XDQtc7UkF2OmsWYKCZ.png?width=108&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=a0bcd9d8f47863ad1ce99506264e220dea8c8849",
+                    "width": 108,
+                    "height": 124
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/djhpODVmOThxZ2VkMcDgb9lIMNOvng7v1EEgr0juN7XDQtc7UkF2OmsWYKCZ.png?width=216&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=9f50d22fdc9df4c40ee0ff08433ec08dd69b2128",
+                    "width": 216,
+                    "height": 249
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/djhpODVmOThxZ2VkMcDgb9lIMNOvng7v1EEgr0juN7XDQtc7UkF2OmsWYKCZ.png?width=320&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=8db66937012f20dba708dd3f210f99a3a4f3cc7b",
+                    "width": 320,
+                    "height": 369
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/djhpODVmOThxZ2VkMcDgb9lIMNOvng7v1EEgr0juN7XDQtc7UkF2OmsWYKCZ.png?width=640&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=3d9fb0920a2a7cf1755bdf3ce751d5ae3624515a",
+                    "width": 640,
+                    "height": 738
+                  }
+                ],
+                "variants": {
+                  
+                },
+                "id": "djhpODVmOThxZ2VkMcDgb9lIMNOvng7v1EEgr0juN7XDQtc7UkF2OmsWYKCZ"
+              }
+            ],
+            "enabled": false
+          },
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "",
+          "id": "1eb0l1l",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "SUCODEY",
+          "discussion_type": null,
+          "num_comments": 1,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1eb0l1l/swiftui_verticalsizeclass/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://v.redd.it/18161ic8qged1",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721825166.0,
+          "num_crossposts": 0,
+          "media": {
+            "reddit_video": {
+              "bitrate_kbps": 2400,
+              "fallback_url": "https://v.redd.it/18161ic8qged1/DASH_720.mp4?source=fallback",
+              "has_audio": false,
+              "height": 830,
+              "width": 720,
+              "scrubber_media_url": "https://v.redd.it/18161ic8qged1/DASH_96.mp4",
+              "dash_url": "https://v.redd.it/18161ic8qged1/DASHPlaylist.mpd?a=1724433833%2CODIzMmU2NWEwNzc1OWExZjQ2YjgwZjFhZGEzN2Y5ZjRjNTMxNTliZTYxNmUwMWE4YzAwYWQ4YjEwMmM0YWZlNA%3D%3D&amp;v=1&amp;f=sd",
+              "duration": 17,
+              "hls_url": "https://v.redd.it/18161ic8qged1/HLSPlaylist.m3u8?a=1724433833%2CNTQxNmE5ZDFlNWE2MWY1OWE1MjAzNWQ3MTE5NDY2OWI1ODY2Mzg2ZGU3OGJmYzJkN2FhYzA2N2YyZjg1NDQ0Zg%3D%3D&amp;v=1&amp;f=sd",
+              "is_gif": false,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_video": true
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "",
+          "author_fullname": "t2_4rv59al9",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Coffee cup path animation",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 140,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1eb2jrz",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 0.8,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 6,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": {
+            "reddit_video": {
+              "bitrate_kbps": 5000,
+              "fallback_url": "https://v.redd.it/xzhwnna56hed1/DASH_1080.mp4?source=fallback",
+              "has_audio": false,
+              "height": 1082,
+              "width": 1080,
+              "scrubber_media_url": "https://v.redd.it/xzhwnna56hed1/DASH_96.mp4",
+              "dash_url": "https://v.redd.it/xzhwnna56hed1/DASHPlaylist.mpd?a=1724433833%2CY2ZiNzVhYjk0MWM0ZjBmNmZmYzBjNGZkOThiOGMyNDYyMWQzNjgxNjU5ZWNjMzllMjA1ZDUwMTBjOGI0OGYyYQ%3D%3D&amp;v=1&amp;f=sd",
+              "duration": 14,
+              "hls_url": "https://v.redd.it/xzhwnna56hed1/HLSPlaylist.m3u8?a=1724433833%2CZjY2ZTEwZTEyOWEyN2M0ODhjNDdmMzg0NjhmZWZlY2Y4ZjBhYmExNTJmZTc4ZGE2MTFhMjhiYjcyN2FmZGI4Nw%3D%3D&amp;v=1&amp;f=sd",
+              "is_gif": true,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_reddit_media_domain": true,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 6,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "https://external-preview.redd.it/eGx4czVpeTQ2aGVkMVnDsdbTU-a0j1YRE9RXC9owhxDHmI-tDPMRSqKpvzli.png?width=140&amp;height=140&amp;crop=140:140,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=bf4d34bd2b13ddbeb66c1a06b5bbbb3881fdbd55",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "post_hint": "hosted:video",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1721830520.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "v.redd.it",
+          "allow_live_comments": false,
+          "selftext_html": null,
+          "likes": true,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "url_overridden_by_dest": "https://v.redd.it/xzhwnna56hed1",
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://external-preview.redd.it/eGx4czVpeTQ2aGVkMVnDsdbTU-a0j1YRE9RXC9owhxDHmI-tDPMRSqKpvzli.png?format=pjpg&amp;auto=webp&amp;s=203dfa8e0297f3d5b01760db657fba785e200f00",
+                  "width": 1700,
+                  "height": 1702
+                },
+                "resolutions": [
+                  {
+                    "url": "https://external-preview.redd.it/eGx4czVpeTQ2aGVkMVnDsdbTU-a0j1YRE9RXC9owhxDHmI-tDPMRSqKpvzli.png?width=108&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=41eec23d171f140ab6fd6be3b1301ecd27ed4b93",
+                    "width": 108,
+                    "height": 108
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/eGx4czVpeTQ2aGVkMVnDsdbTU-a0j1YRE9RXC9owhxDHmI-tDPMRSqKpvzli.png?width=216&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=2d34c489a651fecfefdb37632f981f84fcf909ba",
+                    "width": 216,
+                    "height": 216
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/eGx4czVpeTQ2aGVkMVnDsdbTU-a0j1YRE9RXC9owhxDHmI-tDPMRSqKpvzli.png?width=320&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=f64c5a9c29766d9c4544c3b62da8f7f2adb62004",
+                    "width": 320,
+                    "height": 320
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/eGx4czVpeTQ2aGVkMVnDsdbTU-a0j1YRE9RXC9owhxDHmI-tDPMRSqKpvzli.png?width=640&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=aae337e8be71cd859a80e79f33d2d3e139486f26",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/eGx4czVpeTQ2aGVkMVnDsdbTU-a0j1YRE9RXC9owhxDHmI-tDPMRSqKpvzli.png?width=960&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=38849dab7920c6250043ecf05a0c0a8dd9507354",
+                    "width": 960,
+                    "height": 961
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/eGx4czVpeTQ2aGVkMVnDsdbTU-a0j1YRE9RXC9owhxDHmI-tDPMRSqKpvzli.png?width=1080&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=a13c5212717f43aaae14a51677648d2e0a0ce4c6",
+                    "width": 1080,
+                    "height": 1081
+                  }
+                ],
+                "variants": {
+                  
+                },
+                "id": "eGx4czVpeTQ2aGVkMVnDsdbTU-a0j1YRE9RXC9owhxDHmI-tDPMRSqKpvzli"
+              }
+            ],
+            "enabled": false
+          },
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "",
+          "id": "1eb2jrz",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "rohitsainier",
+          "discussion_type": null,
+          "num_comments": 0,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1eb2jrz/coffee_cup_path_animation/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://v.redd.it/xzhwnna56hed1",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721830520.0,
+          "num_crossposts": 0,
+          "media": {
+            "reddit_video": {
+              "bitrate_kbps": 5000,
+              "fallback_url": "https://v.redd.it/xzhwnna56hed1/DASH_1080.mp4?source=fallback",
+              "has_audio": false,
+              "height": 1082,
+              "width": 1080,
+              "scrubber_media_url": "https://v.redd.it/xzhwnna56hed1/DASH_96.mp4",
+              "dash_url": "https://v.redd.it/xzhwnna56hed1/DASHPlaylist.mpd?a=1724433833%2CY2ZiNzVhYjk0MWM0ZjBmNmZmYzBjNGZkOThiOGMyNDYyMWQzNjgxNjU5ZWNjMzllMjA1ZDUwMTBjOGI0OGYyYQ%3D%3D&amp;v=1&amp;f=sd",
+              "duration": 14,
+              "hls_url": "https://v.redd.it/xzhwnna56hed1/HLSPlaylist.m3u8?a=1724433833%2CZjY2ZTEwZTEyOWEyN2M0ODhjNDdmMzg0NjhmZWZlY2Y4ZjBhYmExNTJmZTc4ZGE2MTFhMjhiYjcyN2FmZGI4Nw%3D%3D&amp;v=1&amp;f=sd",
+              "is_gif": true,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_video": true
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "i am creating a product carousal but i want to add shadow to only bottom and right part of that of the card how to do can anybody please help ",
+          "author_fullname": "t2_82gj34m6j",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "outer shadow in a card ",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": null,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1eb2com",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 1.0,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 3,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 3,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "self",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "content_categories": null,
+          "is_self": true,
+          "mod_note": null,
+          "created": 1721830010.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "self.SwiftUI",
+          "allow_live_comments": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;i am creating a product carousal but i want to add shadow to only bottom and right part of that of the card how to do can anybody please help &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "",
+          "id": "1eb2com",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "Impossible_Diet_3896",
+          "discussion_type": null,
+          "num_comments": 1,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1eb2com/outer_shadow_in_a_card/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://www.reddit.com/r/SwiftUI/comments/1eb2com/outer_shadow_in_a_card/",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721830010.0,
+          "num_crossposts": 0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "so im trying to create a button in CSS that looks just like a button i have in SwiftUI.  i cant get the font to match.  My font in SwiftUI is: \u00a0 \u00a0 `public var primaryButtonFont: Font { return .system(size: 16, weight: .medium)}`\n\nSF Pro Medium and Regular both seem thicker than the SwiftUI version.  What font can i feed into my CSS so it matches what i have in swiftui?",
+          "author_fullname": "t2_158gsj",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Which SF font is the default Text label?",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": null,
+          "top_awarded_type": null,
+          "hide_score": true,
+          "name": "t3_1eb4h28",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 1.0,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 2,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 2,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "self",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "content_categories": null,
+          "is_self": true,
+          "mod_note": null,
+          "created": 1721835313.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "self.SwiftUI",
+          "allow_live_comments": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;so im trying to create a button in CSS that looks just like a button i have in SwiftUI.  i cant get the font to match.  My font in SwiftUI is: \u00a0 \u00a0 &lt;code&gt;public var primaryButtonFont: Font { return .system(size: 16, weight: .medium)}&lt;/code&gt;&lt;/p&gt;\n\n&lt;p&gt;SF Pro Medium and Regular both seem thicker than the SwiftUI version.  What font can i feed into my CSS so it matches what i have in swiftui?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "",
+          "id": "1eb4h28",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "th3suffering",
+          "discussion_type": null,
+          "num_comments": 7,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1eb4h28/which_sf_font_is_the_default_text_label/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://www.reddit.com/r/SwiftUI/comments/1eb4h28/which_sf_font_is_the_default_text_label/",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721835313.0,
+          "num_crossposts": 0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "Video Tutorial https://youtu.be/-HA-A36DPns?si=gOrsNgJgK43hq2zG",
+          "author_fullname": "t2_s2gs6sqq9",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "SwiftUI: Dynamic Button Menus",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 102,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1ea7fl9",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 0.96,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 106,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": {
+            "reddit_video": {
+              "bitrate_kbps": 5000,
+              "fallback_url": "https://v.redd.it/j5elnwugp9ed1/DASH_1080.mp4?source=fallback",
+              "has_audio": true,
+              "height": 1080,
+              "width": 1478,
+              "scrubber_media_url": "https://v.redd.it/j5elnwugp9ed1/DASH_96.mp4",
+              "dash_url": "https://v.redd.it/j5elnwugp9ed1/DASHPlaylist.mpd?a=1724433833%2CYmM2ZWJjNWUxZjU3NjI4OWIxNmM2M2FlNTgxZDQzMjE3OTAyZjdmZGZlNTA3YTkyNjkyMmQxMzQ5NjI3YzE3Zg%3D%3D&amp;v=1&amp;f=sd",
+              "duration": 9,
+              "hls_url": "https://v.redd.it/j5elnwugp9ed1/HLSPlaylist.m3u8?a=1724433833%2CY2QwOGQ1YmQwNjllODllM2MwOWIyYzQ2ZTU4NjRmMDFlNjA5MmMxODI3YWUxMTBkODBhZmZlNjNmNjIwMTI3Yw%3D%3D&amp;v=1&amp;f=sd",
+              "is_gif": false,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_reddit_media_domain": true,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 106,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "https://external-preview.redd.it/b3Z2emYxcWdwOWVkMfvwgAKKwKHad_GgeQBcIlJIgFEPOGVHrlp2MGkTo-4M.png?width=140&amp;height=102&amp;crop=140:102,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=03becca40f5248f66620d1321a2259f5bb9a8158",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "post_hint": "hosted:video",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1721740161.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "v.redd.it",
+          "allow_live_comments": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Video Tutorial &lt;a href=\"https://youtu.be/-HA-A36DPns?si=gOrsNgJgK43hq2zG\"&gt;https://youtu.be/-HA-A36DPns?si=gOrsNgJgK43hq2zG&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "url_overridden_by_dest": "https://v.redd.it/j5elnwugp9ed1",
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://external-preview.redd.it/b3Z2emYxcWdwOWVkMfvwgAKKwKHad_GgeQBcIlJIgFEPOGVHrlp2MGkTo-4M.png?format=pjpg&amp;auto=webp&amp;s=3ce0fdb72c8d5cc2ae862398352330dcb56de9ec",
+                  "width": 1478,
+                  "height": 1080
+                },
+                "resolutions": [
+                  {
+                    "url": "https://external-preview.redd.it/b3Z2emYxcWdwOWVkMfvwgAKKwKHad_GgeQBcIlJIgFEPOGVHrlp2MGkTo-4M.png?width=108&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=2d5ed8cbe3b33a47bc2f622b441e24f8d9db79c7",
+                    "width": 108,
+                    "height": 78
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/b3Z2emYxcWdwOWVkMfvwgAKKwKHad_GgeQBcIlJIgFEPOGVHrlp2MGkTo-4M.png?width=216&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=2a58626b0f8b97dbaa6c8faa70b8dc64f597771f",
+                    "width": 216,
+                    "height": 157
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/b3Z2emYxcWdwOWVkMfvwgAKKwKHad_GgeQBcIlJIgFEPOGVHrlp2MGkTo-4M.png?width=320&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=8cac60069d6ee2c920ea201837b56a4b51f4b991",
+                    "width": 320,
+                    "height": 233
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/b3Z2emYxcWdwOWVkMfvwgAKKwKHad_GgeQBcIlJIgFEPOGVHrlp2MGkTo-4M.png?width=640&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=69e0fa7da177c58730ab9f45c057b5c6c674416e",
+                    "width": 640,
+                    "height": 467
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/b3Z2emYxcWdwOWVkMfvwgAKKwKHad_GgeQBcIlJIgFEPOGVHrlp2MGkTo-4M.png?width=960&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=561434a6b22aed02f9fd2e8b22d4d38c4a6190d2",
+                    "width": 960,
+                    "height": 701
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/b3Z2emYxcWdwOWVkMfvwgAKKwKHad_GgeQBcIlJIgFEPOGVHrlp2MGkTo-4M.png?width=1080&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=c9de092b7bfd532e882e4b4ebbc99183091ee82d",
+                    "width": 1080,
+                    "height": 789
+                  }
+                ],
+                "variants": {
+                  
+                },
+                "id": "b3Z2emYxcWdwOWVkMfvwgAKKwKHad_GgeQBcIlJIgFEPOGVHrlp2MGkTo-4M"
+              }
+            ],
+            "enabled": false
+          },
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "",
+          "id": "1ea7fl9",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "SUCODEY",
+          "discussion_type": null,
+          "num_comments": 8,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1ea7fl9/swiftui_dynamic_button_menus/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://v.redd.it/j5elnwugp9ed1",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721740161.0,
+          "num_crossposts": 0,
+          "media": {
+            "reddit_video": {
+              "bitrate_kbps": 5000,
+              "fallback_url": "https://v.redd.it/j5elnwugp9ed1/DASH_1080.mp4?source=fallback",
+              "has_audio": true,
+              "height": 1080,
+              "width": 1478,
+              "scrubber_media_url": "https://v.redd.it/j5elnwugp9ed1/DASH_96.mp4",
+              "dash_url": "https://v.redd.it/j5elnwugp9ed1/DASHPlaylist.mpd?a=1724433833%2CYmM2ZWJjNWUxZjU3NjI4OWIxNmM2M2FlNTgxZDQzMjE3OTAyZjdmZGZlNTA3YTkyNjkyMmQxMzQ5NjI3YzE3Zg%3D%3D&amp;v=1&amp;f=sd",
+              "duration": 9,
+              "hls_url": "https://v.redd.it/j5elnwugp9ed1/HLSPlaylist.m3u8?a=1724433833%2CY2QwOGQ1YmQwNjllODllM2MwOWIyYzQ2ZTU4NjRmMDFlNjA5MmMxODI3YWUxMTBkODBhZmZlNjNmNjIwMTI3Yw%3D%3D&amp;v=1&amp;f=sd",
+              "is_gif": false,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_video": true
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "https://testflight.apple.com/join/K5HeDxPx\n\nAs a fun side project I am building a casual matching puzzle game and am currently looking for beta testers.\nIt is fully build in SwiftUI and it's been a huge learning experience for me.\n\nLet me know what you think \u2665\ufe0f\n-ppammes",
+          "author_fullname": "t2_k1kkf",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Fully built in SwiftUI and currently on Testflight: my casual matching game \u20183 by 4\u2019",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": null,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1eatrtu",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 0.67,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 2,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 2,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "self",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "post_hint": "self",
+          "content_categories": null,
+          "is_self": true,
+          "mod_note": null,
+          "created": 1721799866.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "self.SwiftUI",
+          "allow_live_comments": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://testflight.apple.com/join/K5HeDxPx\"&gt;https://testflight.apple.com/join/K5HeDxPx&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;As a fun side project I am building a casual matching puzzle game and am currently looking for beta testers.\nIt is fully build in SwiftUI and it&amp;#39;s been a huge learning experience for me.&lt;/p&gt;\n\n&lt;p&gt;Let me know what you think \u2665\ufe0f\n-ppammes&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": true,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://external-preview.redd.it/tqqGn94CC7GSQQ3fvvRG1xJ0zwja1LmA2rRD0j9MJOo.jpg?auto=webp&amp;s=6a28637958a20857508c71829b5b9e0cabcc11fe",
+                  "width": 1024,
+                  "height": 1024
+                },
+                "resolutions": [
+                  {
+                    "url": "https://external-preview.redd.it/tqqGn94CC7GSQQ3fvvRG1xJ0zwja1LmA2rRD0j9MJOo.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=3eb605e469391c69aea2f8a13880aebae866d2e8",
+                    "width": 108,
+                    "height": 108
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/tqqGn94CC7GSQQ3fvvRG1xJ0zwja1LmA2rRD0j9MJOo.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=1cc0d6db90e5768acddbbd70bd81412d0aa4735a",
+                    "width": 216,
+                    "height": 216
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/tqqGn94CC7GSQQ3fvvRG1xJ0zwja1LmA2rRD0j9MJOo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b514d74e6103221e5ba16de2fc873d9743cf04ce",
+                    "width": 320,
+                    "height": 320
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/tqqGn94CC7GSQQ3fvvRG1xJ0zwja1LmA2rRD0j9MJOo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=73e6d004c295d25aec45afb57d3fd883a297a94f",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/tqqGn94CC7GSQQ3fvvRG1xJ0zwja1LmA2rRD0j9MJOo.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=3c835d8036bbc88675a68074a4a8d9e5cf501be8",
+                    "width": 960,
+                    "height": 960
+                  }
+                ],
+                "variants": {
+                  
+                },
+                "id": "UKcKnjwzERFg9NSQDwSEHKdi4XXW3I1ltkeyTzinioA"
+              }
+            ],
+            "enabled": false
+          },
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "",
+          "id": "1eatrtu",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "ppammes",
+          "discussion_type": null,
+          "num_comments": 2,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1eatrtu/fully_built_in_swiftui_and_currently_on/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://www.reddit.com/r/SwiftUI/comments/1eatrtu/fully_built_in_swiftui_and_currently_on/",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721799866.0,
+          "num_crossposts": 0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "Hey everyone!\n\nI recently launched a new SwiftUI blog called Captain SwiftUI! To kick things off, I wrote a 2 part series on Table! Hope you enjoy it and, off you would like to read my future stuff, subscribe!\n\nPart 1: https://open.substack.com/pub/captainswiftui/p/displaying-data-with-table-part-i\n\nPart 2: https://open.substack.com/pub/captainswiftui/p/displaying-data-with-table-part-ii\n\n",
+          "author_fullname": "t2_12e4tu",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Displaying Data with Table",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": "",
+          "downs": 0,
+          "thumbnail_height": 70,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1ean660",
+          "quarantine": false,
+          "link_flair_text_color": "light",
+          "upvote_ratio": 0.88,
+          "author_flair_background_color": null,
+          "ups": 6,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": "Tutorial",
+          "can_mod_post": false,
+          "score": 6,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "https://b.thumbs.redditmedia.com/Q_yiOPDOrRQ9lc8NBIejotvW44UVI418ass2U4yL5vc.jpg",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "post_hint": "link",
+          "content_categories": null,
+          "is_self": false,
+          "subreddit_type": "public",
+          "created": 1721779125.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "open.substack.com",
+          "allow_live_comments": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey everyone!&lt;/p&gt;\n\n&lt;p&gt;I recently launched a new SwiftUI blog called Captain SwiftUI! To kick things off, I wrote a 2 part series on Table! Hope you enjoy it and, off you would like to read my future stuff, subscribe!&lt;/p&gt;\n\n&lt;p&gt;Part 1: &lt;a href=\"https://open.substack.com/pub/captainswiftui/p/displaying-data-with-table-part-i\"&gt;https://open.substack.com/pub/captainswiftui/p/displaying-data-with-table-part-i&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Part 2: &lt;a href=\"https://open.substack.com/pub/captainswiftui/p/displaying-data-with-table-part-ii\"&gt;https://open.substack.com/pub/captainswiftui/p/displaying-data-with-table-part-ii&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "url_overridden_by_dest": "https://open.substack.com/pub/captainswiftui/p/displaying-data-with-table-part-i?r=a1d9l&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://external-preview.redd.it/Byubg28qBVU0kfRjEY-irU9w8juMnqYS6c94zgAUWbc.jpg?auto=webp&amp;s=0165732ccb05525800467858199d956e13411e1f",
+                  "width": 1200,
+                  "height": 600
+                },
+                "resolutions": [
+                  {
+                    "url": "https://external-preview.redd.it/Byubg28qBVU0kfRjEY-irU9w8juMnqYS6c94zgAUWbc.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ce58016b8c435f7fa2f9fe2b64b80ccd82834883",
+                    "width": 108,
+                    "height": 54
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/Byubg28qBVU0kfRjEY-irU9w8juMnqYS6c94zgAUWbc.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=5c7906aba6772b856a76b0dc50b6a03ba22da399",
+                    "width": 216,
+                    "height": 108
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/Byubg28qBVU0kfRjEY-irU9w8juMnqYS6c94zgAUWbc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f259e095e3acd1328e0a2ec146303ce2dfe43a20",
+                    "width": 320,
+                    "height": 160
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/Byubg28qBVU0kfRjEY-irU9w8juMnqYS6c94zgAUWbc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e09545662011f06ceb502052346d34bf34f0b20",
+                    "width": 640,
+                    "height": 320
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/Byubg28qBVU0kfRjEY-irU9w8juMnqYS6c94zgAUWbc.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=e1c44864df54962a10d0efe8fa7819fbcda825bb",
+                    "width": 960,
+                    "height": 480
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/Byubg28qBVU0kfRjEY-irU9w8juMnqYS6c94zgAUWbc.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=c9185c4396366b7924ae0025628deb01cdff8c04",
+                    "width": 1080,
+                    "height": 540
+                  }
+                ],
+                "variants": {
+                  
+                },
+                "id": "gweGaqFvo6G1cOOJok61TdLZCucF_A0l9i4vTuVzqN0"
+              }
+            ],
+            "enabled": false
+          },
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "link_flair_template_id": "40f2eeca-d822-11e9-8ad3-0efac9e7a64a",
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "mod_note": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "num_reports": null,
+          "removal_reason": null,
+          "link_flair_background_color": "#349e48",
+          "id": "1ean660",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "thedb007",
+          "discussion_type": null,
+          "num_comments": 0,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1ean660/displaying_data_with_table/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://open.substack.com/pub/captainswiftui/p/displaying-data-with-table-part-i?r=a1d9l&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721779125.0,
+          "num_crossposts": 0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "Source code: https://www.patreon.com/posts/swiftui-xmark-108661175?utm_medium=clipboard_copy&amp;utm_source=copyLink&amp;utm_campaign=postshare_creator&amp;utm_content=join_link",
+          "author_fullname": "t2_s2gs6sqq9",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "SwiftUI Xmark animation",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 140,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1ea5unc",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 0.9,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 44,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": {
+            "reddit_video": {
+              "bitrate_kbps": 2400,
+              "fallback_url": "https://v.redd.it/3lbve94bb9ed1/DASH_720.mp4?source=fallback",
+              "has_audio": false,
+              "height": 830,
+              "width": 720,
+              "scrubber_media_url": "https://v.redd.it/3lbve94bb9ed1/DASH_96.mp4",
+              "dash_url": "https://v.redd.it/3lbve94bb9ed1/DASHPlaylist.mpd?a=1724433833%2CZmRhNDg4NTZkZDYyODc3ODI0ZTIwM2Y1Y2NjY2I0ZWQwNDhkNzJhOTlmYzU2ZDJhZThmYTJiMzE0MzAzZDkwMQ%3D%3D&amp;v=1&amp;f=sd",
+              "duration": 35,
+              "hls_url": "https://v.redd.it/3lbve94bb9ed1/HLSPlaylist.m3u8?a=1724433833%2CZDg4YWFlZDE5YTRlNjJiZmFmZGY1MTQ4YjgzMjdiY2U0ZTQ1ZjA3N2UxOTFmYzBiMTkzMmI4Mjg1NWI1YWUyZg%3D%3D&amp;v=1&amp;f=sd",
+              "is_gif": false,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_reddit_media_domain": true,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 44,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "https://external-preview.redd.it/NDZmbzdwMWJiOWVkMX-QO_-69oAbQAbsn_ycGPhZ1lrw74ge7tg1tW280T1q.png?width=140&amp;height=140&amp;crop=140:140,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=0f3046c14079f07292f42ad3794cc1f715b6a55c",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "post_hint": "hosted:video",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1721735400.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "v.redd.it",
+          "allow_live_comments": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Source code: &lt;a href=\"https://www.patreon.com/posts/swiftui-xmark-108661175?utm_medium=clipboard_copy&amp;amp;utm_source=copyLink&amp;amp;utm_campaign=postshare_creator&amp;amp;utm_content=join_link\"&gt;https://www.patreon.com/posts/swiftui-xmark-108661175?utm_medium=clipboard_copy&amp;amp;utm_source=copyLink&amp;amp;utm_campaign=postshare_creator&amp;amp;utm_content=join_link&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": true,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "url_overridden_by_dest": "https://v.redd.it/3lbve94bb9ed1",
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://external-preview.redd.it/NDZmbzdwMWJiOWVkMX-QO_-69oAbQAbsn_ycGPhZ1lrw74ge7tg1tW280T1q.png?format=pjpg&amp;auto=webp&amp;s=fb60f4d36a1fe9e4342ad1b58c6895f84653e1d5",
+                  "width": 936,
+                  "height": 1080
+                },
+                "resolutions": [
+                  {
+                    "url": "https://external-preview.redd.it/NDZmbzdwMWJiOWVkMX-QO_-69oAbQAbsn_ycGPhZ1lrw74ge7tg1tW280T1q.png?width=108&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=daa5a49210ae4ee291495b26ed5db5803ff79140",
+                    "width": 108,
+                    "height": 124
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/NDZmbzdwMWJiOWVkMX-QO_-69oAbQAbsn_ycGPhZ1lrw74ge7tg1tW280T1q.png?width=216&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=a1b2780e7f5291723862540b781380410888ac87",
+                    "width": 216,
+                    "height": 249
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/NDZmbzdwMWJiOWVkMX-QO_-69oAbQAbsn_ycGPhZ1lrw74ge7tg1tW280T1q.png?width=320&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=2191716108ff3dfad4f1de74b79f94d13254b64d",
+                    "width": 320,
+                    "height": 369
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/NDZmbzdwMWJiOWVkMX-QO_-69oAbQAbsn_ycGPhZ1lrw74ge7tg1tW280T1q.png?width=640&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=72bdd61ff46ec1277c4bb4ccaf239c9c88be892a",
+                    "width": 640,
+                    "height": 738
+                  }
+                ],
+                "variants": {
+                  
+                },
+                "id": "NDZmbzdwMWJiOWVkMX-QO_-69oAbQAbsn_ycGPhZ1lrw74ge7tg1tW280T1q"
+              }
+            ],
+            "enabled": false
+          },
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "",
+          "id": "1ea5unc",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "SUCODEY",
+          "discussion_type": null,
+          "num_comments": 8,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1ea5unc/swiftui_xmark_animation/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://v.redd.it/3lbve94bb9ed1",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721735400.0,
+          "num_crossposts": 0,
+          "media": {
+            "reddit_video": {
+              "bitrate_kbps": 2400,
+              "fallback_url": "https://v.redd.it/3lbve94bb9ed1/DASH_720.mp4?source=fallback",
+              "has_audio": false,
+              "height": 830,
+              "width": 720,
+              "scrubber_media_url": "https://v.redd.it/3lbve94bb9ed1/DASH_96.mp4",
+              "dash_url": "https://v.redd.it/3lbve94bb9ed1/DASHPlaylist.mpd?a=1724433833%2CZmRhNDg4NTZkZDYyODc3ODI0ZTIwM2Y1Y2NjY2I0ZWQwNDhkNzJhOTlmYzU2ZDJhZThmYTJiMzE0MzAzZDkwMQ%3D%3D&amp;v=1&amp;f=sd",
+              "duration": 35,
+              "hls_url": "https://v.redd.it/3lbve94bb9ed1/HLSPlaylist.m3u8?a=1724433833%2CZDg4YWFlZDE5YTRlNjJiZmFmZGY1MTQ4YjgzMjdiY2U0ZTQ1ZjA3N2UxOTFmYzBiMTkzMmI4Mjg1NWI1YWUyZg%3D%3D&amp;v=1&amp;f=sd",
+              "is_gif": false,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_video": true
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "I have a ScrollView, which simply is a list. The Apple Watch's digital crown can move the list of items up and down.\n\nBut I want to read the digital crown's value, which is supposedly the binding parameter inside the\u00a0`.digitalCrownRotation()`\u00a0modifier. But it seems the crown value does not change at all as shown in this simplified example below, where the print function is never called, neither the item text in the list will display any number other than 0.0.\n\nHow to read the crown value under ScrollView?\n\n    import SwiftUI\n    \n    struct sp_16_crownScrollQuestion: View {\n    \u00a0 \u00a0 @State private var scrollOffset: CGFloat = 0\n    \u00a0\u00a0 \u00a0\n    \u00a0 \u00a0 var body: some View {\n    \u00a0\u00a0 \u00a0 \u00a0 \u00a0\n    \u00a0 \u00a0 \u00a0 \u00a0 ScrollView {\n    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 VStack {\n    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ForEach(0..&lt;20, id: \\.self) { index in\n    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Text(\"Item \\(index)_\\(scrollOffset)\")\n    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 }\n    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 }\n    \u00a0 \u00a0 \u00a0 \u00a0 }\n    \u00a0 \u00a0 \u00a0 \u00a0 .focusable()\n    \u00a0 \u00a0 \u00a0 \u00a0 .digitalCrownRotation($scrollOffset)\n    \u00a0 \u00a0 \u00a0 \u00a0 .onChange(of: scrollOffset){\n    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 print(\"crown: \\(scrollOffset)\")\n    \u00a0 \u00a0 \u00a0 \u00a0 }\n    \u00a0 \u00a0 }\n    }\n\nhttps://preview.redd.it/1t6ofz1dsced1.png?width=528&amp;format=png&amp;auto=webp&amp;s=ee7a19a8ce7c7be212ef35e7d3916934665e71a1",
+          "author_fullname": "t2_smpu66edo",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "How to read WatchOS Digital Crown value under ScrollView",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 140,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "media_metadata": {
+            "1t6ofz1dsced1": {
+              "status": "valid",
+              "e": "Image",
+              "m": "image/png",
+              "p": [
+                {
+                  "y": 144,
+                  "x": 108,
+                  "u": "https://preview.redd.it/1t6ofz1dsced1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=c51200f123dcba7a19170963cc8aeb4840a62fe3"
+                },
+                {
+                  "y": 289,
+                  "x": 216,
+                  "u": "https://preview.redd.it/1t6ofz1dsced1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=14e675d8dff921e49382cd0a183a6d57a4ffd569"
+                },
+                {
+                  "y": 429,
+                  "x": 320,
+                  "u": "https://preview.redd.it/1t6ofz1dsced1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=a12af6622e0eeb14652a74d43f4a27927c66b67f"
+                }
+              ],
+              "s": {
+                "y": 708,
+                "x": 528,
+                "u": "https://preview.redd.it/1t6ofz1dsced1.png?width=528&amp;format=png&amp;auto=webp&amp;s=ee7a19a8ce7c7be212ef35e7d3916934665e71a1"
+              },
+              "id": "1t6ofz1dsced1"
+            }
+          },
+          "name": "t3_1eamk7h",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 1.0,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 4,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 4,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "https://b.thumbs.redditmedia.com/PXx3yOA1XwRmBArDccF91bADIIcbeypJ1RJLxzk687Q.jpg",
+          "edited": 1721778314.0,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "content_categories": null,
+          "is_self": true,
+          "mod_note": null,
+          "created": 1721777480.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "self.SwiftUI",
+          "allow_live_comments": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I have a ScrollView, which simply is a list. The Apple Watch&amp;#39;s digital crown can move the list of items up and down.&lt;/p&gt;\n\n&lt;p&gt;But I want to read the digital crown&amp;#39;s value, which is supposedly the binding parameter inside the\u00a0&lt;code&gt;.digitalCrownRotation()&lt;/code&gt;\u00a0modifier. But it seems the crown value does not change at all as shown in this simplified example below, where the print function is never called, neither the item text in the list will display any number other than 0.0.&lt;/p&gt;\n\n&lt;p&gt;How to read the crown value under ScrollView?&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;import SwiftUI\n\nstruct sp_16_crownScrollQuestion: View {\n\u00a0 \u00a0 @State private var scrollOffset: CGFloat = 0\n\u00a0\u00a0 \u00a0\n\u00a0 \u00a0 var body: some View {\n\u00a0\u00a0 \u00a0 \u00a0 \u00a0\n\u00a0 \u00a0 \u00a0 \u00a0 ScrollView {\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 VStack {\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 ForEach(0..&amp;lt;20, id: \\.self) { index in\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Text(&amp;quot;Item \\(index)_\\(scrollOffset)&amp;quot;)\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 }\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 }\n\u00a0 \u00a0 \u00a0 \u00a0 }\n\u00a0 \u00a0 \u00a0 \u00a0 .focusable()\n\u00a0 \u00a0 \u00a0 \u00a0 .digitalCrownRotation($scrollOffset)\n\u00a0 \u00a0 \u00a0 \u00a0 .onChange(of: scrollOffset){\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 print(&amp;quot;crown: \\(scrollOffset)&amp;quot;)\n\u00a0 \u00a0 \u00a0 \u00a0 }\n\u00a0 \u00a0 }\n}\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/1t6ofz1dsced1.png?width=528&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ee7a19a8ce7c7be212ef35e7d3916934665e71a1\"&gt;https://preview.redd.it/1t6ofz1dsced1.png?width=528&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ee7a19a8ce7c7be212ef35e7d3916934665e71a1&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "",
+          "id": "1eamk7h",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "JJJ_tennis",
+          "discussion_type": null,
+          "num_comments": 0,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1eamk7h/how_to_read_watchos_digital_crown_value_under/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://www.reddit.com/r/SwiftUI/comments/1eamk7h/how_to_read_watchos_digital_crown_value_under/",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721777480.0,
+          "num_crossposts": 0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "",
+          "author_fullname": "t2_73062s4l",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Xcode 15 - Essentials to Organise and Maintain Code",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 105,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1eagzbn",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 0.89,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 7,
+          "total_awards_received": 0,
+          "media_embed": {
+            "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/YfKna-2ct08?start=11&amp;feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Xcode 15 - Essentials to Organise and Maintain Code\"&gt;&lt;/iframe&gt;",
+            "width": 356,
+            "scrolling": false,
+            "height": 200
+          },
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": {
+            "type": "youtube.com",
+            "oembed": {
+              "provider_url": "https://www.youtube.com/",
+              "version": "1.0",
+              "title": "Xcode 15 - Essentials to Organise and Maintain Code",
+              "type": "video",
+              "thumbnail_width": 480,
+              "height": 200,
+              "width": 356,
+              "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/YfKna-2ct08?start=11&amp;feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Xcode 15 - Essentials to Organise and Maintain Code\"&gt;&lt;/iframe&gt;",
+              "author_name": "Shubham Singh",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/YfKna-2ct08/hqdefault.jpg",
+              "thumbnail_height": 360,
+              "author_url": "https://www.youtube.com/@shubham_iosdev"
+            }
+          },
+          "is_reddit_media_domain": false,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/YfKna-2ct08?start=11&amp;feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Xcode 15 - Essentials to Organise and Maintain Code\"&gt;&lt;/iframe&gt;",
+            "width": 356,
+            "scrolling": false,
+            "media_domain_url": "https://www.redditmedia.com/mediaembed/1eagzbn",
+            "height": 200
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 7,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "https://a.thumbs.redditmedia.com/DxI7dnj34zdwiChWUF1MNZ2vYvNUF1g4s_z16RBDot8.jpg",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "post_hint": "rich:video",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1721763679.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "youtube.com",
+          "allow_live_comments": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "url_overridden_by_dest": "https://www.youtube.com/watch?v=YfKna-2ct08&amp;t=11s",
+          "view_count": null,
+          "archived": false,
+          "no_follow": true,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://external-preview.redd.it/7RX6ZfgygrNhBUK_PGmseU8G_vaiOs97NAjyyT0svZg.jpg?auto=webp&amp;s=c27d4f0a7685477d6f1d49156d42166a97c85beb",
+                  "width": 480,
+                  "height": 360
+                },
+                "resolutions": [
+                  {
+                    "url": "https://external-preview.redd.it/7RX6ZfgygrNhBUK_PGmseU8G_vaiOs97NAjyyT0svZg.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=bf6dcc2ca31cbe886f2f2a8b19fad8fe9ab20a8d",
+                    "width": 108,
+                    "height": 81
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/7RX6ZfgygrNhBUK_PGmseU8G_vaiOs97NAjyyT0svZg.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=1a0e3c3f738e831d96c46375ab4045d8ec9dd4bb",
+                    "width": 216,
+                    "height": 162
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/7RX6ZfgygrNhBUK_PGmseU8G_vaiOs97NAjyyT0svZg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=14ba8334afcad3d3fce188a89e63d589fe2d1c14",
+                    "width": 320,
+                    "height": 240
+                  }
+                ],
+                "variants": {
+                  
+                },
+                "id": "q9z7AUt-j-bkSj32z1s8u3w8r3p4M7UyoV6_izafZ2Y"
+              }
+            ],
+            "enabled": false
+          },
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "",
+          "id": "1eagzbn",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "shubham_iosdev",
+          "discussion_type": null,
+          "num_comments": 0,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1eagzbn/xcode_15_essentials_to_organise_and_maintain_code/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://www.youtube.com/watch?v=YfKna-2ct08&amp;t=11s",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721763679.0,
+          "num_crossposts": 0,
+          "media": {
+            "type": "youtube.com",
+            "oembed": {
+              "provider_url": "https://www.youtube.com/",
+              "version": "1.0",
+              "title": "Xcode 15 - Essentials to Organise and Maintain Code",
+              "type": "video",
+              "thumbnail_width": 480,
+              "height": 200,
+              "width": 356,
+              "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/YfKna-2ct08?start=11&amp;feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Xcode 15 - Essentials to Organise and Maintain Code\"&gt;&lt;/iframe&gt;",
+              "author_name": "Shubham Singh",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/YfKna-2ct08/hqdefault.jpg",
+              "thumbnail_height": 360,
+              "author_url": "https://www.youtube.com/@shubham_iosdev"
+            }
+          },
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "I've started working on my Swift Student Challenge early this year. I collected data and trained a model using Create ML. After that I export the model and drag and drop it into my Xcode project.\n\nIn a normal app in Xcode, the project builds and it all works as expected. \u00a0However, in an App Playground project when I drag and drop my ML mode and I try to build it I get this error:  \nBuild target GUaiTAR with configuration Debug  \nerror: guitar-chords-Am-C.mlpackage: No predominant language detected. Set COREML\\_CODEGEN\\_LANGUAGE to preferred language. (in target 'GUaiTAR' from project 'GUaiTAR'). But in an App Playground I can't modify the Build Settings.\n\nDo you have any idea how I can fix that error? Thank you in advance!",
+          "author_fullname": "t2_82wwsgj6",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "How can I add my Create ML model to an App Playground in Xcode? It works perfectly in a normal app but I can't get it to work in a Playground.",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": null,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1eahp5r",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 1.0,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 3,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 3,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "self",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "content_categories": null,
+          "is_self": true,
+          "mod_note": null,
+          "created": 1721765372.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "self.SwiftUI",
+          "allow_live_comments": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;ve started working on my Swift Student Challenge early this year. I collected data and trained a model using Create ML. After that I export the model and drag and drop it into my Xcode project.&lt;/p&gt;\n\n&lt;p&gt;In a normal app in Xcode, the project builds and it all works as expected. \u00a0However, in an App Playground project when I drag and drop my ML mode and I try to build it I get this error:&lt;br/&gt;\nBuild target GUaiTAR with configuration Debug&lt;br/&gt;\nerror: guitar-chords-Am-C.mlpackage: No predominant language detected. Set COREML_CODEGEN_LANGUAGE to preferred language. (in target &amp;#39;GUaiTAR&amp;#39; from project &amp;#39;GUaiTAR&amp;#39;). But in an App Playground I can&amp;#39;t modify the Build Settings.&lt;/p&gt;\n\n&lt;p&gt;Do you have any idea how I can fix that error? Thank you in advance!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "",
+          "id": "1eahp5r",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "vickipetrova",
+          "discussion_type": null,
+          "num_comments": 0,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1eahp5r/how_can_i_add_my_create_ml_model_to_an_app/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://www.reddit.com/r/SwiftUI/comments/1eahp5r/how_can_i_add_my_create_ml_model_to_an_app/",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721765372.0,
+          "num_crossposts": 0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "",
+          "author_fullname": "t2_dahhpma5",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Best UI/UX Practices in Web App Development - Enhance User Experience",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 92,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1eaufn8",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 0.17,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 0,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 0,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "https://b.thumbs.redditmedia.com/i7OP6AJXdefjDaycP70rnBaTLyoolRoDrra2DvNIc7U.jpg",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "post_hint": "link",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1721802462.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "quickwayinfosystems.com",
+          "allow_live_comments": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "url_overridden_by_dest": "https://www.quickwayinfosystems.com/blog/best-ui-ux-practices-web-app-development/",
+          "view_count": null,
+          "archived": false,
+          "no_follow": true,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://external-preview.redd.it/mbjPDDZD0uCgIbx5oFLP0JNhSE3fVtww6l51blza9Uk.jpg?auto=webp&amp;s=244f6ac85f554b84192448f27d7b6abd64103fac",
+                  "width": 728,
+                  "height": 480
+                },
+                "resolutions": [
+                  {
+                    "url": "https://external-preview.redd.it/mbjPDDZD0uCgIbx5oFLP0JNhSE3fVtww6l51blza9Uk.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=670745a404cfe828289ed317232e28e9a6f15585",
+                    "width": 108,
+                    "height": 71
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/mbjPDDZD0uCgIbx5oFLP0JNhSE3fVtww6l51blza9Uk.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ab54bd27e913c9f952b0eb26245f78c9b2add18c",
+                    "width": 216,
+                    "height": 142
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/mbjPDDZD0uCgIbx5oFLP0JNhSE3fVtww6l51blza9Uk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=89b9955ab3a95e45b769ae125ea201800991fc71",
+                    "width": 320,
+                    "height": 210
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/mbjPDDZD0uCgIbx5oFLP0JNhSE3fVtww6l51blza9Uk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e31fa4723d0f3a7ee1d8bf501c5504612964d731",
+                    "width": 640,
+                    "height": 421
+                  }
+                ],
+                "variants": {
+                  
+                },
+                "id": "TOnFPornFPj_At0aPyJoH5DDD8gYoEe1fzEHN3osO6I"
+              }
+            ],
+            "enabled": false
+          },
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "",
+          "id": "1eaufn8",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "anujtomar_17",
+          "discussion_type": null,
+          "num_comments": 0,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1eaufn8/best_uiux_practices_in_web_app_development/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://www.quickwayinfosystems.com/blog/best-ui-ux-practices-web-app-development/",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721802462.0,
+          "num_crossposts": 0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "I\u2019m building a SwiftUI app that requires thousands of images of camera lenses. All of these images already exist online on either manufacturers websites or retailers. I need to download and categorize about 1,200 lenses. Obviously doing this by hand is possible but will 1. Take a long time and 2. Isn\u2019t future proof, everytime a new lens set is released, to keep my app current, I\u2019d have to find these new assets and download and implement them. Is there a way I can automate this process? I know about url scraping, but that\u2019s not exactly kosher. ",
+          "author_fullname": "t2_19us39gw",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Gathering Image Assets",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": "",
+          "downs": 0,
+          "thumbnail_height": null,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1eacj5r",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 0.6,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 1,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": "Question",
+          "can_mod_post": false,
+          "score": 1,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "self",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "content_categories": null,
+          "is_self": true,
+          "mod_note": null,
+          "created": 1721752910.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "self.SwiftUI",
+          "allow_live_comments": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I\u2019m building a SwiftUI app that requires thousands of images of camera lenses. All of these images already exist online on either manufacturers websites or retailers. I need to download and categorize about 1,200 lenses. Obviously doing this by hand is possible but will 1. Take a long time and 2. Isn\u2019t future proof, everytime a new lens set is released, to keep my app current, I\u2019d have to find these new assets and download and implement them. Is there a way I can automate this process? I know about url scraping, but that\u2019s not exactly kosher. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": true,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "link_flair_template_id": "cc9f246c-d821-11e9-bb5b-0e27fb62a064",
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "#e0e2e8",
+          "id": "1eacj5r",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "opatry",
+          "discussion_type": null,
+          "num_comments": 9,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1eacj5r/gathering_image_assets/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://www.reddit.com/r/SwiftUI/comments/1eacj5r/gathering_image_assets/",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721752910.0,
+          "num_crossposts": 0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "I'm want to make a button that transforms into its actionable self when held down. Basically a button with the following state transitions:\n\n* Un-activated state\n   * When held down, starts animating towards the activated state\n      * If held down for N seconds, becomes activated state\n      * if not, go back to un-activated state\n* Activated State\n   * Can perform some action\n\nSeems like a really common use case but haven't been able to find any examples. On top of that LongPressGesture seems to have some kind of bug ([SoF](https://stackoverflow.com/questions/78781174/longpressgesture-not-registering-on-ios-18/78781817#78781817) question). I can manually animate the state transitions with \\`CADisplayLink\\` but seems too heavy for such a simple use case. Anyone have any pointers? ",
+          "author_fullname": "t2_5hgw4i6z",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Hold to transform into button",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": "",
+          "downs": 0,
+          "thumbnail_height": null,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1ea1pl5",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 0.81,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 3,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": "Question",
+          "can_mod_post": false,
+          "score": 3,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "self",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "post_hint": "self",
+          "content_categories": null,
+          "is_self": true,
+          "mod_note": null,
+          "created": 1721719572.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "self.SwiftUI",
+          "allow_live_comments": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m want to make a button that transforms into its actionable self when held down. Basically a button with the following state transitions:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Un-activated state\n\n&lt;ul&gt;\n&lt;li&gt;When held down, starts animating towards the activated state\n\n&lt;ul&gt;\n&lt;li&gt;If held down for N seconds, becomes activated state&lt;/li&gt;\n&lt;li&gt;if not, go back to un-activated state&lt;/li&gt;\n&lt;/ul&gt;&lt;/li&gt;\n&lt;/ul&gt;&lt;/li&gt;\n&lt;li&gt;Activated State\n\n&lt;ul&gt;\n&lt;li&gt;Can perform some action&lt;/li&gt;\n&lt;/ul&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;Seems like a really common use case but haven&amp;#39;t been able to find any examples. On top of that LongPressGesture seems to have some kind of bug (&lt;a href=\"https://stackoverflow.com/questions/78781174/longpressgesture-not-registering-on-ios-18/78781817#78781817\"&gt;SoF&lt;/a&gt; question). I can manually animate the state transitions with `CADisplayLink` but seems too heavy for such a simple use case. Anyone have any pointers? &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": true,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://external-preview.redd.it/yzSfTlKTSYGpEXeFgyDvHlfoLGOFQJqPuH_Y38RBz2U.jpg?auto=webp&amp;s=a70d21ce9f01f64670d2200ca9fc3f39b94a7e48",
+                  "width": 316,
+                  "height": 316
+                },
+                "resolutions": [
+                  {
+                    "url": "https://external-preview.redd.it/yzSfTlKTSYGpEXeFgyDvHlfoLGOFQJqPuH_Y38RBz2U.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=0aad06750c23b98c9b7595343a8b54a42dc18851",
+                    "width": 108,
+                    "height": 108
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/yzSfTlKTSYGpEXeFgyDvHlfoLGOFQJqPuH_Y38RBz2U.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=b66126834977e269be586d07464046049ed09138",
+                    "width": 216,
+                    "height": 216
+                  }
+                ],
+                "variants": {
+                  
+                },
+                "id": "nfayPavSUB5ngYv6-19UHNBThsXfcLIDQl4HkEe3Cv0"
+              }
+            ],
+            "enabled": false
+          },
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "link_flair_template_id": "cc9f246c-d821-11e9-bb5b-0e27fb62a064",
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "#e0e2e8",
+          "id": "1ea1pl5",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "TendiesMongler",
+          "discussion_type": null,
+          "num_comments": 2,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1ea1pl5/hold_to_transform_into_button/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://www.reddit.com/r/SwiftUI/comments/1ea1pl5/hold_to_transform_into_button/",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721719572.0,
+          "num_crossposts": 0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "Hi folks,\n\nI wanna configure Linear Gradient color for navigation title. I'm trying a bunch of ways to do that but the title navigation color doesn't change. So do you guys know a way to setup or config navigation title color using ViewModifier please help me. Thanks!",
+          "author_fullname": "t2_s8dx7ha2z",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "How to config LinearGradient color for navigation title",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": null,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1ea2f07",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 1.0,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 3,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 3,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "self",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "content_categories": null,
+          "is_self": true,
+          "mod_note": null,
+          "created": 1721722394.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "self.SwiftUI",
+          "allow_live_comments": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi folks,&lt;/p&gt;\n\n&lt;p&gt;I wanna configure Linear Gradient color for navigation title. I&amp;#39;m trying a bunch of ways to do that but the title navigation color doesn&amp;#39;t change. So do you guys know a way to setup or config navigation title color using ViewModifier please help me. Thanks!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "",
+          "id": "1ea2f07",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "Alarming-Exam597",
+          "discussion_type": null,
+          "num_comments": 1,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1ea2f07/how_to_config_lineargradient_color_for_navigation/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://www.reddit.com/r/SwiftUI/comments/1ea2f07/how_to_config_lineargradient_color_for_navigation/",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721722394.0,
+          "num_crossposts": 0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": " Video tutorial: https://youtu.be/Ml8uzqlBFEc?si=JlpQeic82Kr-ZiC1",
+          "author_fullname": "t2_s2gs6sqq9",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "SwiftUI Login and Sign-Up Screen with animation",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 110,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1e9duk6",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 0.96,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 97,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": {
+            "reddit_video": {
+              "bitrate_kbps": 5000,
+              "fallback_url": "https://v.redd.it/3e6fx7z2k2ed1/DASH_1080.mp4?source=fallback",
+              "has_audio": true,
+              "height": 1080,
+              "width": 1372,
+              "scrubber_media_url": "https://v.redd.it/3e6fx7z2k2ed1/DASH_96.mp4",
+              "dash_url": "https://v.redd.it/3e6fx7z2k2ed1/DASHPlaylist.mpd?a=1724433833%2CMDlkOWM2Y2MzM2MwOTg1NDY2YTk1OThjNWU4YjZmNjNmYzdjNWMxYjFmMmRjYjI1ODI4NTU2YmRlNDI5MTQ4MA%3D%3D&amp;v=1&amp;f=sd",
+              "duration": 47,
+              "hls_url": "https://v.redd.it/3e6fx7z2k2ed1/HLSPlaylist.m3u8?a=1724433833%2CMjQ1OTk5MThmYzQ3MzE0ZmNjNDA2ZGFiZTNlNTZkMGRkNzYwODlhZGJhZTgyNWJiNTM5YTJlZWM1NDE1MTI4Mg%3D%3D&amp;v=1&amp;f=sd",
+              "is_gif": false,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_reddit_media_domain": true,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 97,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "https://external-preview.redd.it/NGV0OWJpdjJrMmVkMXBEqzzjJ7Xpf6o0q8wEqzT3Oq2HzgYT7V_LvvCgdFG_.png?width=140&amp;height=110&amp;crop=140:110,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=184c669076364bb7e5503221b051dfe889971a5b",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "post_hint": "hosted:video",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1721653603.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "v.redd.it",
+          "allow_live_comments": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Video tutorial: &lt;a href=\"https://youtu.be/Ml8uzqlBFEc?si=JlpQeic82Kr-ZiC1\"&gt;https://youtu.be/Ml8uzqlBFEc?si=JlpQeic82Kr-ZiC1&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": true,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "url_overridden_by_dest": "https://v.redd.it/3e6fx7z2k2ed1",
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://external-preview.redd.it/NGV0OWJpdjJrMmVkMXBEqzzjJ7Xpf6o0q8wEqzT3Oq2HzgYT7V_LvvCgdFG_.png?format=pjpg&amp;auto=webp&amp;s=560f47a995b70490654b789d632994431af13287",
+                  "width": 1372,
+                  "height": 1080
+                },
+                "resolutions": [
+                  {
+                    "url": "https://external-preview.redd.it/NGV0OWJpdjJrMmVkMXBEqzzjJ7Xpf6o0q8wEqzT3Oq2HzgYT7V_LvvCgdFG_.png?width=108&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=a24f3cea422d32c860fd8a44650362cb44607497",
+                    "width": 108,
+                    "height": 85
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/NGV0OWJpdjJrMmVkMXBEqzzjJ7Xpf6o0q8wEqzT3Oq2HzgYT7V_LvvCgdFG_.png?width=216&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=62ce1f9748c5a75098da85c32e2d462de469624e",
+                    "width": 216,
+                    "height": 170
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/NGV0OWJpdjJrMmVkMXBEqzzjJ7Xpf6o0q8wEqzT3Oq2HzgYT7V_LvvCgdFG_.png?width=320&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=dee62536f11de3896c9df2fef2a855757d109205",
+                    "width": 320,
+                    "height": 251
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/NGV0OWJpdjJrMmVkMXBEqzzjJ7Xpf6o0q8wEqzT3Oq2HzgYT7V_LvvCgdFG_.png?width=640&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=a5ae536a7a32980647eb7eaa84ce85da20d24a3f",
+                    "width": 640,
+                    "height": 503
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/NGV0OWJpdjJrMmVkMXBEqzzjJ7Xpf6o0q8wEqzT3Oq2HzgYT7V_LvvCgdFG_.png?width=960&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=c724746a983a08601318a2eb04d8d975cceb024c",
+                    "width": 960,
+                    "height": 755
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/NGV0OWJpdjJrMmVkMXBEqzzjJ7Xpf6o0q8wEqzT3Oq2HzgYT7V_LvvCgdFG_.png?width=1080&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=aa7191d1ff58f661513ac374b70d7616c2350f05",
+                    "width": 1080,
+                    "height": 850
+                  }
+                ],
+                "variants": {
+                  
+                },
+                "id": "NGV0OWJpdjJrMmVkMXBEqzzjJ7Xpf6o0q8wEqzT3Oq2HzgYT7V_LvvCgdFG_"
+              }
+            ],
+            "enabled": false
+          },
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "",
+          "id": "1e9duk6",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "SUCODEY",
+          "discussion_type": null,
+          "num_comments": 10,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1e9duk6/swiftui_login_and_signup_screen_with_animation/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://v.redd.it/3e6fx7z2k2ed1",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721653603.0,
+          "num_crossposts": 0,
+          "media": {
+            "reddit_video": {
+              "bitrate_kbps": 5000,
+              "fallback_url": "https://v.redd.it/3e6fx7z2k2ed1/DASH_1080.mp4?source=fallback",
+              "has_audio": true,
+              "height": 1080,
+              "width": 1372,
+              "scrubber_media_url": "https://v.redd.it/3e6fx7z2k2ed1/DASH_96.mp4",
+              "dash_url": "https://v.redd.it/3e6fx7z2k2ed1/DASHPlaylist.mpd?a=1724433833%2CMDlkOWM2Y2MzM2MwOTg1NDY2YTk1OThjNWU4YjZmNjNmYzdjNWMxYjFmMmRjYjI1ODI4NTU2YmRlNDI5MTQ4MA%3D%3D&amp;v=1&amp;f=sd",
+              "duration": 47,
+              "hls_url": "https://v.redd.it/3e6fx7z2k2ed1/HLSPlaylist.m3u8?a=1724433833%2CMjQ1OTk5MThmYzQ3MzE0ZmNjNDA2ZGFiZTNlNTZkMGRkNzYwODlhZGJhZTgyNWJiNTM5YTJlZWM1NDE1MTI4Mg%3D%3D&amp;v=1&amp;f=sd",
+              "is_gif": false,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_video": true
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "",
+          "author_fullname": "t2_4rv59al9",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Neumorphic ui in SwiftUI",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 140,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1e9j6z4",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 0.82,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 38,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": {
+            "reddit_video": {
+              "bitrate_kbps": 5000,
+              "fallback_url": "https://v.redd.it/jcm3br6ro3ed1/DASH_1080.mp4?source=fallback",
+              "has_audio": false,
+              "height": 1082,
+              "width": 1080,
+              "scrubber_media_url": "https://v.redd.it/jcm3br6ro3ed1/DASH_96.mp4",
+              "dash_url": "https://v.redd.it/jcm3br6ro3ed1/DASHPlaylist.mpd?a=1724433833%2CZDEyYmM0ZGVhNjNiMWEzNmViNTg3NTdhYTQ3MzJjNjVhNGQyNzA3ZGYzMWFhMGUyMjdiNjJmYzY2MmZlOWZiYg%3D%3D&amp;v=1&amp;f=sd",
+              "duration": 15,
+              "hls_url": "https://v.redd.it/jcm3br6ro3ed1/HLSPlaylist.m3u8?a=1724433833%2CNzU4MDhhZjhlMDdhMzMyMjE5YmJkMWFiMzRiZjNlYWJiOWE4YTRiYzMxMDdjZmRhM2E2ZDU4MTRkNWMyNGFhZg%3D%3D&amp;v=1&amp;f=sd",
+              "is_gif": true,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_reddit_media_domain": true,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 38,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "https://external-preview.redd.it/cjh5endmdnFvM2VkMYKeVQ94FmmNJc2xmV_D19juQ0nnNLGlB9lycpLTR1HR.png?width=140&amp;height=140&amp;crop=140:140,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=efd80594005c7625ba20c5e0b9a3d7109cb0d0c0",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "post_hint": "hosted:video",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1721667283.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "v.redd.it",
+          "allow_live_comments": false,
+          "selftext_html": null,
+          "likes": true,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "url_overridden_by_dest": "https://v.redd.it/jcm3br6ro3ed1",
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://external-preview.redd.it/cjh5endmdnFvM2VkMYKeVQ94FmmNJc2xmV_D19juQ0nnNLGlB9lycpLTR1HR.png?format=pjpg&amp;auto=webp&amp;s=08cfe6c9b304d29f3605a3a76e6525f9892aea03",
+                  "width": 1700,
+                  "height": 1702
+                },
+                "resolutions": [
+                  {
+                    "url": "https://external-preview.redd.it/cjh5endmdnFvM2VkMYKeVQ94FmmNJc2xmV_D19juQ0nnNLGlB9lycpLTR1HR.png?width=108&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=9dbb5f8b30515ab6a72527473ff01ba4782e7923",
+                    "width": 108,
+                    "height": 108
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/cjh5endmdnFvM2VkMYKeVQ94FmmNJc2xmV_D19juQ0nnNLGlB9lycpLTR1HR.png?width=216&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=ff0c2c6164237da2a6793a337c80f6dfbeefd39c",
+                    "width": 216,
+                    "height": 216
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/cjh5endmdnFvM2VkMYKeVQ94FmmNJc2xmV_D19juQ0nnNLGlB9lycpLTR1HR.png?width=320&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=e96a9bb8e6470e6279a9c767ae3ff8e1d3aee946",
+                    "width": 320,
+                    "height": 320
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/cjh5endmdnFvM2VkMYKeVQ94FmmNJc2xmV_D19juQ0nnNLGlB9lycpLTR1HR.png?width=640&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=ec460cca6a094238e4c4aa351b1bae92c8161f19",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/cjh5endmdnFvM2VkMYKeVQ94FmmNJc2xmV_D19juQ0nnNLGlB9lycpLTR1HR.png?width=960&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=cc3e42e23c8e9f8d8a347b0fee0a411779d19ec6",
+                    "width": 960,
+                    "height": 961
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/cjh5endmdnFvM2VkMYKeVQ94FmmNJc2xmV_D19juQ0nnNLGlB9lycpLTR1HR.png?width=1080&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=260cf4c6033570f27a537a2ca54bdebc82ae7ea9",
+                    "width": 1080,
+                    "height": 1081
+                  }
+                ],
+                "variants": {
+                  
+                },
+                "id": "cjh5endmdnFvM2VkMYKeVQ94FmmNJc2xmV_D19juQ0nnNLGlB9lycpLTR1HR"
+              }
+            ],
+            "enabled": false
+          },
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "",
+          "id": "1e9j6z4",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "rohitsainier",
+          "discussion_type": null,
+          "num_comments": 7,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1e9j6z4/neumorphic_ui_in_swiftui/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://v.redd.it/jcm3br6ro3ed1",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721667283.0,
+          "num_crossposts": 0,
+          "media": {
+            "reddit_video": {
+              "bitrate_kbps": 5000,
+              "fallback_url": "https://v.redd.it/jcm3br6ro3ed1/DASH_1080.mp4?source=fallback",
+              "has_audio": false,
+              "height": 1082,
+              "width": 1080,
+              "scrubber_media_url": "https://v.redd.it/jcm3br6ro3ed1/DASH_96.mp4",
+              "dash_url": "https://v.redd.it/jcm3br6ro3ed1/DASHPlaylist.mpd?a=1724433833%2CZDEyYmM0ZGVhNjNiMWEzNmViNTg3NTdhYTQ3MzJjNjVhNGQyNzA3ZGYzMWFhMGUyMjdiNjJmYzY2MmZlOWZiYg%3D%3D&amp;v=1&amp;f=sd",
+              "duration": 15,
+              "hls_url": "https://v.redd.it/jcm3br6ro3ed1/HLSPlaylist.m3u8?a=1724433833%2CNzU4MDhhZjhlMDdhMzMyMjE5YmJkMWFiMzRiZjNlYWJiOWE4YTRiYzMxMDdjZmRhM2E2ZDU4MTRkNWMyNGFhZg%3D%3D&amp;v=1&amp;f=sd",
+              "is_gif": true,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_video": true
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "",
+          "author_fullname": "t2_zbkebv4r7",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "How to Create a Guess the Word Game with SwiftUI and Swift",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": "",
+          "downs": 0,
+          "thumbnail_height": 105,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1ea2zud",
+          "quarantine": false,
+          "link_flair_text_color": "light",
+          "upvote_ratio": 0.6,
+          "author_flair_background_color": null,
+          "ups": 1,
+          "total_awards_received": 0,
+          "media_embed": {
+            "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/VSEUQf-M7GY?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"How to Create a Guess the Word Game with SwiftUI and Swift\"&gt;&lt;/iframe&gt;",
+            "width": 356,
+            "scrolling": false,
+            "height": 200
+          },
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": {
+            "type": "youtube.com",
+            "oembed": {
+              "provider_url": "https://www.youtube.com/",
+              "version": "1.0",
+              "title": "How to Create a Guess the Word Game with SwiftUI and Swift",
+              "type": "video",
+              "thumbnail_width": 480,
+              "height": 200,
+              "width": 356,
+              "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/VSEUQf-M7GY?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"How to Create a Guess the Word Game with SwiftUI and Swift\"&gt;&lt;/iframe&gt;",
+              "author_name": "iOS Insights",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/VSEUQf-M7GY/hqdefault.jpg",
+              "thumbnail_height": 360,
+              "author_url": "https://www.youtube.com/@ios-insights"
+            }
+          },
+          "is_reddit_media_domain": false,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/VSEUQf-M7GY?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"How to Create a Guess the Word Game with SwiftUI and Swift\"&gt;&lt;/iframe&gt;",
+            "width": 356,
+            "scrolling": false,
+            "media_domain_url": "https://www.redditmedia.com/mediaembed/1ea2zud",
+            "height": 200
+          },
+          "link_flair_text": "Tutorial",
+          "can_mod_post": false,
+          "score": 1,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "https://a.thumbs.redditmedia.com/D9HILpDwtgRrNLrO0fkhtW9yd3srth8gUd3_JcsLWy0.jpg",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "post_hint": "rich:video",
+          "content_categories": null,
+          "is_self": false,
+          "subreddit_type": "public",
+          "created": 1721724763.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "youtu.be",
+          "allow_live_comments": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "url_overridden_by_dest": "https://youtu.be/VSEUQf-M7GY",
+          "view_count": null,
+          "archived": false,
+          "no_follow": true,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://external-preview.redd.it/cuA-TAr1ctMaY0Nae5XT6rWfohKE1OdVxgB69l6vhmg.jpg?auto=webp&amp;s=53effcb3b780f514686bd44126e8ee28cc7f286d",
+                  "width": 480,
+                  "height": 360
+                },
+                "resolutions": [
+                  {
+                    "url": "https://external-preview.redd.it/cuA-TAr1ctMaY0Nae5XT6rWfohKE1OdVxgB69l6vhmg.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=597236c258438bdb697d66c578860ffcc02c7bfd",
+                    "width": 108,
+                    "height": 81
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/cuA-TAr1ctMaY0Nae5XT6rWfohKE1OdVxgB69l6vhmg.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=cd53acd735b0f2062492c9e94899c069aa177a69",
+                    "width": 216,
+                    "height": 162
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/cuA-TAr1ctMaY0Nae5XT6rWfohKE1OdVxgB69l6vhmg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=74f98dd019c02a7144938bd6b644566f14176dbc",
+                    "width": 320,
+                    "height": 240
+                  }
+                ],
+                "variants": {
+                  
+                },
+                "id": "h9mWp9I14FWProsboVU0j13RFKzV9-_9x9tY3lO1FH0"
+              }
+            ],
+            "enabled": false
+          },
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "link_flair_template_id": "40f2eeca-d822-11e9-8ad3-0efac9e7a64a",
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "mod_note": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "num_reports": null,
+          "removal_reason": null,
+          "link_flair_background_color": "#349e48",
+          "id": "1ea2zud",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "fishcakeyummy",
+          "discussion_type": null,
+          "num_comments": 0,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1ea2zud/how_to_create_a_guess_the_word_game_with_swiftui/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://youtu.be/VSEUQf-M7GY",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721724763.0,
+          "num_crossposts": 0,
+          "media": {
+            "type": "youtube.com",
+            "oembed": {
+              "provider_url": "https://www.youtube.com/",
+              "version": "1.0",
+              "title": "How to Create a Guess the Word Game with SwiftUI and Swift",
+              "type": "video",
+              "thumbnail_width": 480,
+              "height": 200,
+              "width": 356,
+              "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/VSEUQf-M7GY?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"How to Create a Guess the Word Game with SwiftUI and Swift\"&gt;&lt;/iframe&gt;",
+              "author_name": "iOS Insights",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/VSEUQf-M7GY/hqdefault.jpg",
+              "thumbnail_height": 360,
+              "author_url": "https://www.youtube.com/@ios-insights"
+            }
+          },
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "",
+          "author_fullname": "t2_s2gs6sqq9",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "SwiftUl withAnimation",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 140,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1e9bajr",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 0.99,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 40,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": {
+            "reddit_video": {
+              "bitrate_kbps": 2400,
+              "fallback_url": "https://v.redd.it/88zmiyf8w1ed1/DASH_720.mp4?source=fallback",
+              "has_audio": false,
+              "height": 830,
+              "width": 720,
+              "scrubber_media_url": "https://v.redd.it/88zmiyf8w1ed1/DASH_96.mp4",
+              "dash_url": "https://v.redd.it/88zmiyf8w1ed1/DASHPlaylist.mpd?a=1724433833%2CMjVlZWE2MDdmODAzYTcyMTkyOGUyMTAxNzFkOTgzZWYxNzVlM2EwYzFmMGY2M2M2Zjc0MTA3ZTVjMmE0ZTRkOA%3D%3D&amp;v=1&amp;f=sd",
+              "duration": 19,
+              "hls_url": "https://v.redd.it/88zmiyf8w1ed1/HLSPlaylist.m3u8?a=1724433833%2CNjMzNzU0OTRlN2RkMWE5YTBhMGY4NjAyNDlhM2M3YzRmMTYyMGYyYzNkMGVkMDIxZTUzODI2YmQyYmY0NTY0Yg%3D%3D&amp;v=1&amp;f=sd",
+              "is_gif": false,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_reddit_media_domain": true,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 40,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "https://external-preview.redd.it/ZDEwejd6Yzh3MWVkMYSlGAoVrkONf9Xdi4xOCZ6VaX13L44wKTWvDxTyzOkK.png?width=140&amp;height=140&amp;crop=140:140,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=793d5bb6075c71bb23824b058dc09d1b1fd4043d",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "post_hint": "hosted:video",
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1721645581.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "v.redd.it",
+          "allow_live_comments": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "url_overridden_by_dest": "https://v.redd.it/88zmiyf8w1ed1",
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://external-preview.redd.it/ZDEwejd6Yzh3MWVkMYSlGAoVrkONf9Xdi4xOCZ6VaX13L44wKTWvDxTyzOkK.png?format=pjpg&amp;auto=webp&amp;s=aeb783818df1c9af9449e95c9c6582b106b1e335",
+                  "width": 936,
+                  "height": 1080
+                },
+                "resolutions": [
+                  {
+                    "url": "https://external-preview.redd.it/ZDEwejd6Yzh3MWVkMYSlGAoVrkONf9Xdi4xOCZ6VaX13L44wKTWvDxTyzOkK.png?width=108&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=a64e5ce456bfeaaf2dd6822745ed4a3785c5cdea",
+                    "width": 108,
+                    "height": 124
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/ZDEwejd6Yzh3MWVkMYSlGAoVrkONf9Xdi4xOCZ6VaX13L44wKTWvDxTyzOkK.png?width=216&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=25f1b9a1d319ff455fdd6f3768c4c215aca67db4",
+                    "width": 216,
+                    "height": 249
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/ZDEwejd6Yzh3MWVkMYSlGAoVrkONf9Xdi4xOCZ6VaX13L44wKTWvDxTyzOkK.png?width=320&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=3adf867dfcce90e4d9eb1e87a32e6d46c54575a0",
+                    "width": 320,
+                    "height": 369
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/ZDEwejd6Yzh3MWVkMYSlGAoVrkONf9Xdi4xOCZ6VaX13L44wKTWvDxTyzOkK.png?width=640&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=bfda060823bdc9e9d370fb554f5682507cd21bbf",
+                    "width": 640,
+                    "height": 738
+                  }
+                ],
+                "variants": {
+                  
+                },
+                "id": "ZDEwejd6Yzh3MWVkMYSlGAoVrkONf9Xdi4xOCZ6VaX13L44wKTWvDxTyzOkK"
+              }
+            ],
+            "enabled": false
+          },
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "",
+          "id": "1e9bajr",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "SUCODEY",
+          "discussion_type": null,
+          "num_comments": 2,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1e9bajr/swiftul_withanimation/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://v.redd.it/88zmiyf8w1ed1",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721645581.0,
+          "num_crossposts": 0,
+          "media": {
+            "reddit_video": {
+              "bitrate_kbps": 2400,
+              "fallback_url": "https://v.redd.it/88zmiyf8w1ed1/DASH_720.mp4?source=fallback",
+              "has_audio": false,
+              "height": 830,
+              "width": 720,
+              "scrubber_media_url": "https://v.redd.it/88zmiyf8w1ed1/DASH_96.mp4",
+              "dash_url": "https://v.redd.it/88zmiyf8w1ed1/DASHPlaylist.mpd?a=1724433833%2CMjVlZWE2MDdmODAzYTcyMTkyOGUyMTAxNzFkOTgzZWYxNzVlM2EwYzFmMGY2M2M2Zjc0MTA3ZTVjMmE0ZTRkOA%3D%3D&amp;v=1&amp;f=sd",
+              "duration": 19,
+              "hls_url": "https://v.redd.it/88zmiyf8w1ed1/HLSPlaylist.m3u8?a=1724433833%2CNjMzNzU0OTRlN2RkMWE5YTBhMGY4NjAyNDlhM2M3YzRmMTYyMGYyYzNkMGVkMDIxZTUzODI2YmQyYmY0NTY0Yg%3D%3D&amp;v=1&amp;f=sd",
+              "is_gif": false,
+              "transcoding_status": "completed"
+            }
+          },
+          "is_video": true
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "",
+          "author_fullname": "t2_8f8i5vq",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "is_gallery": true,
+          "title": "Does anyone know what this control is called? Specifically I\u2019m trying to figure out how to make the filter popover (and eventually figure out multi-select)",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": null,
+          "downs": 0,
+          "thumbnail_height": 140,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "media_metadata": {
+            "ttd4n1aav2ed1": {
+              "status": "valid",
+              "e": "Image",
+              "m": "image/jpg",
+              "p": [
+                {
+                  "y": 171,
+                  "x": 108,
+                  "u": "https://preview.redd.it/ttd4n1aav2ed1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=4ba20cdf7dc9f64df5db45293e65962951a79626"
+                },
+                {
+                  "y": 342,
+                  "x": 216,
+                  "u": "https://preview.redd.it/ttd4n1aav2ed1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=69c372c1302af41dbcd59dc39fc983223c29ad7e"
+                },
+                {
+                  "y": 507,
+                  "x": 320,
+                  "u": "https://preview.redd.it/ttd4n1aav2ed1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8decf745f61c7dbb2e0a7db0719d7a8154bffb31"
+                },
+                {
+                  "y": 1015,
+                  "x": 640,
+                  "u": "https://preview.redd.it/ttd4n1aav2ed1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=797f8f92c425644425588b14d83d8144242cca1b"
+                }
+              ],
+              "s": {
+                "y": 1206,
+                "x": 760,
+                "u": "https://preview.redd.it/ttd4n1aav2ed1.jpg?width=760&amp;format=pjpg&amp;auto=webp&amp;s=8ebfa7e7c693f99d5474ebb022ba8c85bf464acb"
+              },
+              "id": "ttd4n1aav2ed1"
+            },
+            "b2x442aav2ed1": {
+              "status": "valid",
+              "e": "Image",
+              "m": "image/jpg",
+              "p": [
+                {
+                  "y": 116,
+                  "x": 108,
+                  "u": "https://preview.redd.it/b2x442aav2ed1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=daa60d960c30c5d24f71773387bfd3b815a2165a"
+                },
+                {
+                  "y": 233,
+                  "x": 216,
+                  "u": "https://preview.redd.it/b2x442aav2ed1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=640bde7d518dc0178761f11f3dfc295a1afffea5"
+                },
+                {
+                  "y": 346,
+                  "x": 320,
+                  "u": "https://preview.redd.it/b2x442aav2ed1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=958f75c6b305e4631d002b39a228020d14c99d1c"
+                },
+                {
+                  "y": 692,
+                  "x": 640,
+                  "u": "https://preview.redd.it/b2x442aav2ed1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c9fe8b4f7fb1dc8b0429fec42d93652386ee2892"
+                }
+              ],
+              "s": {
+                "y": 811,
+                "x": 750,
+                "u": "https://preview.redd.it/b2x442aav2ed1.jpg?width=750&amp;format=pjpg&amp;auto=webp&amp;s=2d9c8691d118282ab85f441147db049fe131259e"
+              },
+              "id": "b2x442aav2ed1"
+            }
+          },
+          "name": "t3_1e9f8iz",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 1.0,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 12,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": 140,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "gallery_data": {
+            "items": [
+              {
+                "caption": "",
+                "outbound_url": "",
+                "media_id": "b2x442aav2ed1",
+                "id": 490258934
+              },
+              {
+                "caption": "",
+                "outbound_url": "",
+                "media_id": "ttd4n1aav2ed1",
+                "id": 490258935
+              }
+            ]
+          },
+          "link_flair_text": null,
+          "can_mod_post": false,
+          "score": 12,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "https://b.thumbs.redditmedia.com/kaL9XrrilDlLfResRsOw7bLmDVbHbCvBWtuhB9V5d_Y.jpg",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "content_categories": null,
+          "is_self": false,
+          "mod_note": null,
+          "created": 1721657369.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "reddit.com",
+          "allow_live_comments": false,
+          "selftext_html": null,
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "",
+          "id": "1e9f8iz",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "helloITdepartment",
+          "discussion_type": null,
+          "num_comments": 12,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1e9f8iz/does_anyone_know_what_this_control_is_called/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://www.reddit.com/gallery/1e9f8iz",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721657369.0,
+          "num_crossposts": 0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "Thought I'd share my journey and hopefully encourage new developers. I had some prior experience with programming but I had never made my own project. I was always stuck in tutorial hell and never knew how to truly create anything on my own. I wanted to get in iOS development because I just always wanted to be able to make and publish my own app, but this time I wanted to make sure I avoided tutorial hell.\n\nThis is where I made my first mistake. I spent hours trying to figure out the best course and the best suggestion I have is to just pick a course that interests you and start it. don't look back and regret it when things seem difficult. Every course will eventually get difficult and make you think that this is not the right course for you, but just stick with it and keep trying. I ended up going with 100 days of SwiftUI as I enjoyed the pace and the content. Plus it was free\n\nThere were a lot of times where I felt lost or wasn't really understanding what was going on. I either went through the code slowly and tried understanding what was going on or decided to come back to it later but the best thing I did was continuing with the course and not giving up on it.\n\nI finally finished the course and honestly forgot a lot of the stuff I had learnt. Part of me thought to continue with a new course and try and learn more as I wasn't prepared to make my own app but I did not want to get stuck in tutorial hell again. So I decided to make my first app by myself\n\nI kept seeing on every reddit post that the best way to learn to code is by just making projects and I never really understood this because in the back of my mind I always thought to myself that I do not know enough and will not be able to create an app, but I decided to try anyways. \n\nHonestly it was the best decision I've made. Don't get me wrong, I get stuck almost everyday and spend some time on trying to find a solution, but I have learnt more from making my own app than I did with the course. there are so many resources online to help you(Stack overflow, reddit, HWS, gpt to learn and so much more). Being able to build your own stuff feels so rewarding and trying to figure out how to make your code work with the solution you have seen is what helps you understand the code better even though it is one heck of a pain.\n\nAll I wanted to say was believe in yourself, from thinking that I'll never be able to code my own stuff to coming close to building my first app, you just have to put in the effort and you will get there\n\nPS: Special thanks to this community for helping me through all my stupid doubts \ud83e\udee1",
+          "author_fullname": "t2_2ovs4wnq",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "My experience from 100 days of swiftUI to making my first app",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": "",
+          "downs": 0,
+          "thumbnail_height": null,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1e93ugm",
+          "quarantine": false,
+          "link_flair_text_color": "light",
+          "upvote_ratio": 0.99,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 79,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": "News",
+          "can_mod_post": false,
+          "score": 79,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "self",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "content_categories": null,
+          "is_self": true,
+          "mod_note": null,
+          "created": 1721616942.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "self.SwiftUI",
+          "allow_live_comments": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Thought I&amp;#39;d share my journey and hopefully encourage new developers. I had some prior experience with programming but I had never made my own project. I was always stuck in tutorial hell and never knew how to truly create anything on my own. I wanted to get in iOS development because I just always wanted to be able to make and publish my own app, but this time I wanted to make sure I avoided tutorial hell.&lt;/p&gt;\n\n&lt;p&gt;This is where I made my first mistake. I spent hours trying to figure out the best course and the best suggestion I have is to just pick a course that interests you and start it. don&amp;#39;t look back and regret it when things seem difficult. Every course will eventually get difficult and make you think that this is not the right course for you, but just stick with it and keep trying. I ended up going with 100 days of SwiftUI as I enjoyed the pace and the content. Plus it was free&lt;/p&gt;\n\n&lt;p&gt;There were a lot of times where I felt lost or wasn&amp;#39;t really understanding what was going on. I either went through the code slowly and tried understanding what was going on or decided to come back to it later but the best thing I did was continuing with the course and not giving up on it.&lt;/p&gt;\n\n&lt;p&gt;I finally finished the course and honestly forgot a lot of the stuff I had learnt. Part of me thought to continue with a new course and try and learn more as I wasn&amp;#39;t prepared to make my own app but I did not want to get stuck in tutorial hell again. So I decided to make my first app by myself&lt;/p&gt;\n\n&lt;p&gt;I kept seeing on every reddit post that the best way to learn to code is by just making projects and I never really understood this because in the back of my mind I always thought to myself that I do not know enough and will not be able to create an app, but I decided to try anyways. &lt;/p&gt;\n\n&lt;p&gt;Honestly it was the best decision I&amp;#39;ve made. Don&amp;#39;t get me wrong, I get stuck almost everyday and spend some time on trying to find a solution, but I have learnt more from making my own app than I did with the course. there are so many resources online to help you(Stack overflow, reddit, HWS, gpt to learn and so much more). Being able to build your own stuff feels so rewarding and trying to figure out how to make your code work with the solution you have seen is what helps you understand the code better even though it is one heck of a pain.&lt;/p&gt;\n\n&lt;p&gt;All I wanted to say was believe in yourself, from thinking that I&amp;#39;ll never be able to code my own stuff to coming close to building my first app, you just have to put in the effort and you will get there&lt;/p&gt;\n\n&lt;p&gt;PS: Special thanks to this community for helping me through all my stupid doubts \ud83e\udee1&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "link_flair_template_id": "2a03e004-4bc9-11eb-a3a4-0e00cb437e85",
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "#b8001f",
+          "id": "1e93ugm",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "atif160604",
+          "discussion_type": null,
+          "num_comments": 25,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1e93ugm/my_experience_from_100_days_of_swiftui_to_making/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://www.reddit.com/r/SwiftUI/comments/1e93ugm/my_experience_from_100_days_of_swiftui_to_making/",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721616942.0,
+          "num_crossposts": 0,
+          "media": null,
+          "is_video": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "approved_at_utc": null,
+          "subreddit": "SwiftUI",
+          "selftext": "Hello!\nDoes anyone know how to make a simple pulsating effect in SwiftUI? I just want to make my SF go bigger and smaller with a show, smooth animation.\nThank you!",
+          "author_fullname": "t2_v9eoo6sw",
+          "saved": false,
+          "mod_reason_title": null,
+          "gilded": 0,
+          "clicked": false,
+          "title": "Pulsating effect",
+          "link_flair_richtext": [
+            
+          ],
+          "subreddit_name_prefixed": "r/SwiftUI",
+          "hidden": false,
+          "pwls": 6,
+          "link_flair_css_class": "",
+          "downs": 0,
+          "thumbnail_height": null,
+          "top_awarded_type": null,
+          "hide_score": false,
+          "name": "t3_1e9l9t3",
+          "quarantine": false,
+          "link_flair_text_color": "dark",
+          "upvote_ratio": 1.0,
+          "author_flair_background_color": null,
+          "subreddit_type": "public",
+          "ups": 3,
+          "total_awards_received": 0,
+          "media_embed": {
+            
+          },
+          "thumbnail_width": null,
+          "author_flair_template_id": null,
+          "is_original_content": false,
+          "user_reports": [
+            
+          ],
+          "secure_media": null,
+          "is_reddit_media_domain": false,
+          "is_meta": false,
+          "category": null,
+          "secure_media_embed": {
+            
+          },
+          "link_flair_text": "Question - Animation",
+          "can_mod_post": false,
+          "score": 3,
+          "approved_by": null,
+          "is_created_from_ads_ui": false,
+          "author_premium": false,
+          "thumbnail": "self",
+          "edited": false,
+          "author_flair_css_class": null,
+          "author_flair_richtext": [
+            
+          ],
+          "gildings": {
+            
+          },
+          "content_categories": null,
+          "is_self": true,
+          "mod_note": null,
+          "created": 1721672301.0,
+          "link_flair_type": "text",
+          "wls": 6,
+          "removed_by_category": null,
+          "banned_by": null,
+          "author_flair_type": "text",
+          "domain": "self.SwiftUI",
+          "allow_live_comments": false,
+          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hello!\nDoes anyone know how to make a simple pulsating effect in SwiftUI? I just want to make my SF go bigger and smaller with a show, smooth animation.\nThank you!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+          "likes": null,
+          "suggested_sort": "top",
+          "banned_at_utc": null,
+          "view_count": null,
+          "archived": false,
+          "no_follow": false,
+          "is_crosspostable": true,
+          "pinned": false,
+          "over_18": false,
+          "all_awardings": [
+            
+          ],
+          "awarders": [
+            
+          ],
+          "media_only": false,
+          "link_flair_template_id": "aeceddd6-801c-11ee-b423-ee1e949b5f0c",
+          "can_gild": false,
+          "spoiler": false,
+          "locked": false,
+          "author_flair_text": null,
+          "treatment_tags": [
+            
+          ],
+          "visited": false,
+          "removed_by": null,
+          "num_reports": null,
+          "distinguished": null,
+          "subreddit_id": "t5_12hozx",
+          "author_is_blocked": false,
+          "mod_reason_by": null,
+          "removal_reason": null,
+          "link_flair_background_color": "#dadada",
+          "id": "1e9l9t3",
+          "is_robot_indexable": true,
+          "report_reasons": null,
+          "author": "Gucy24",
+          "discussion_type": null,
+          "num_comments": 3,
+          "send_replies": true,
+          "whitelist_status": "all_ads",
+          "contest_mode": false,
+          "mod_reports": [
+            
+          ],
+          "author_patreon_flair": false,
+          "author_flair_text_color": null,
+          "permalink": "/r/SwiftUI/comments/1e9l9t3/pulsating_effect/",
+          "parent_whitelist_status": "all_ads",
+          "stickied": false,
+          "url": "https://www.reddit.com/r/SwiftUI/comments/1e9l9t3/pulsating_effect/",
+          "subreddit_subscribers": 39686,
+          "created_utc": 1721672301.0,
+          "num_crossposts": 0,
+          "media": null,
+          "is_video": false
+        }
+      }
+    ],
+    "before": null
+  }
+}
