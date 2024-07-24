@@ -11,7 +11,7 @@ import Foundation
 class TestDataManager {
     private let decoder = JSONDecoder()
 
-    private func getResultFromFile<T>(filePath path: String) -> T? where T: Codable {
+    private func getResultFromFile<T: Decodable>(filePath path: String) -> T? {
         guard let data = getLocalTestAsset(forPath: path) else { return nil }
 
         do {

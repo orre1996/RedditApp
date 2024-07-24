@@ -146,7 +146,6 @@
 			children = (
 				9FC2156C2C515AE2003AE21B /* Views */,
 				9FC215662C515A46003AE21B /* TableViewCells */,
-				9FC2153C2C5154C3003AE21B /* Components */,
 				9FC2153B2C5154BB003AE21B /* Models */,
 				9FC2153A2C5154B5003AE21B /* ViewControllers */,
 				9FC215392C5154B0003AE21B /* Storyboards */,
@@ -252,13 +251,6 @@
 				9FC2154F2C515662003AE21B /* SubredditResponse.swift */,
 			);
 			path = Models;
-			sourceTree = "<group>";
-		};
-		9FC2153C2C5154C3003AE21B /* Components */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Components;
 			sourceTree = "<group>";
 		};
 		9FC215552C5158C0003AE21B /* SubredditList */ = {
