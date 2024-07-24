@@ -46,6 +46,7 @@
 		9FC215972C517284003AE21B /* SwiftUIPosts.json in Resources */ = {isa = PBXBuildFile; fileRef = 9FC215962C517284003AE21B /* SwiftUIPosts.json */; };
 		9FC215992C5174C4003AE21B /* Date+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC215982C5174C4003AE21B /* Date+Extensions.swift */; };
 		9FC2159B2C5178C2003AE21B /* UIScrollView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC2159A2C5178C2003AE21B /* UIScrollView+Extensions.swift */; };
+		9FC2159D2C51803C003AE21B /* UIFont+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC2159C2C51803C003AE21B /* UIFont+Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -101,6 +102,7 @@
 		9FC215962C517284003AE21B /* SwiftUIPosts.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = SwiftUIPosts.json; sourceTree = "<group>"; };
 		9FC215982C5174C4003AE21B /* Date+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extensions.swift"; sourceTree = "<group>"; };
 		9FC2159A2C5178C2003AE21B /* UIScrollView+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIScrollView+Extensions.swift"; sourceTree = "<group>"; };
+		9FC2159C2C51803C003AE21B /* UIFont+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIFont+Extensions.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -202,6 +204,7 @@
 				9FC215742C515DC2003AE21B /* Array+Extensions.swift */,
 				9FC215982C5174C4003AE21B /* Date+Extensions.swift */,
 				9FC2159A2C5178C2003AE21B /* UIScrollView+Extensions.swift */,
+				9FC2159C2C51803C003AE21B /* UIFont+Extensions.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -507,6 +510,7 @@
 				9FC215572C5158CA003AE21B /* SubredditListViewController.swift in Sources */,
 				9FC2153E2C5154D3003AE21B /* NetworkManager.swift in Sources */,
 				9FC215632C515962003AE21B /* UIImageView+Extensions.swift in Sources */,
+				9FC2159D2C51803C003AE21B /* UIFont+Extensions.swift in Sources */,
 				9FC2156E2C515AE8003AE21B /* ShadowView.swift in Sources */,
 				9FC215502C515662003AE21B /* SubredditResponse.swift in Sources */,
 				9FC215482C515570003AE21B /* NetworkError.swift in Sources */,

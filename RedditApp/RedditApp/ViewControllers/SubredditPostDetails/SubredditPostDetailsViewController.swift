@@ -17,7 +17,11 @@ class SubredditPostDetailsViewController: UIViewController {
 
     override func viewDidLoad() {
         title = viewModel.post.data.title
+        
         customizeOverview()
+        customizeLabelFonts()
+
+        NotificationCenter.default.addObserver(self, selector: #selector(preferredContentSizeChanged(_:)), name: UIContentSizeCategory.didChangeNotification, object: nil)
     }
 
     private func customizeOverview() {
@@ -35,6 +39,16 @@ class SubredditPostDetailsViewController: UIViewController {
         postTitleLabel.text = data.title.capitalized
         upvotesLabel.text = "\(data.ups) upvotes"
         commentsLabel.text = "\(data.num_comments) comments"
+    }
+    
+    private func customizeLabelFonts() {
+        postTitleLabel.makeFontScalable(font: UIFont.systemFont(ofSize: 16, weight: .bold))
+        upvotesLabel.makeFontScalable(font: UIFont.systemFont(ofSize: 14, weight: .regular))
+        commentsLabel.makeFontScalable(font: UIFont.systemFont(ofSize: 14, weight: .regular))
+    }
+    
+    @objc func preferredContentSizeChanged(_ notification: Notification) {
+        customizeLabelFonts()
     }
 }
 

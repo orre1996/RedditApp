@@ -18,7 +18,9 @@ class SubredditListTableViewCell: UITableViewCell {
     override func awakeFromNib() {
         backgroundColor = .clear
         selectionStyle = .none
+
         resetCell()
+        customizeLabelFonts()
     }
 
     override func prepareForReuse() {
@@ -52,5 +54,10 @@ class SubredditListTableViewCell: UITableViewCell {
         postedAgoLabel.text = ""
         postThumbnailImageView.image = nil
         task?.cancel()
+    }
+    
+    private func customizeLabelFonts() {
+        postTitleLabel.makeFontScalable(font: UIFont.systemFont(ofSize: 16, weight: .bold))
+        postedAgoLabel.makeFontScalable(font: UIFont.systemFont(ofSize: 14, weight: .regular))
     }
 }

@@ -16,7 +16,7 @@ extension SubredditListViewController: UITableViewDataSource, UITableViewDelegat
         let rowType = viewModel.rows[indexPath.row]
 
         if let cell = ErrorTableViewCell.dequeue(for: indexPath, in: tableView), case .error = rowType {
-            cell.setup(message: "Couldn't download data for r/\(viewModel.selectedSubreddit.rawValue). Please try again later")
+            cell.setup(message: "Couldn't download data for r/\(viewModel.selectedSubreddit.rawValue). Please try again later.")
             return cell
         } else if let cell = SubredditListTableViewCell.dequeue(for: indexPath, in: tableView), case let .post(data) = rowType {
             cell.setup(post: data)
