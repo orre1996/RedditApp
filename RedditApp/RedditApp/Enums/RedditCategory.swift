@@ -12,9 +12,10 @@ enum Subreddit: String {
     case iosprogramming = "iOSProgramming"
     case swiftui = "SwiftUI"
     case swift = "Swift"
+    case shouldFail = "shouldFail"
     
     static var randomSubreddit: Subreddit {
-        let array: [Subreddit] = [.aww, .iosprogramming, .swiftui, .swift]
+        let array: [Subreddit] = [.aww, .iosprogramming, .swiftui, .swift, .shouldFail]
         return array.randomElement() ?? .aww
     }
 }

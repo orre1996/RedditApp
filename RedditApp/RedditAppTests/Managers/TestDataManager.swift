@@ -11,7 +11,7 @@ import Foundation
 class TestDataManager {
     private let decoder = JSONDecoder()
 
-    func getResultFromFile<T>(filePath path: String) -> T? where T: Codable {
+    private func getResultFromFile<T>(filePath path: String) -> T? where T: Codable {
         guard let data = getLocalTestAsset(forPath: path) else { return nil }
 
         do {
@@ -21,7 +21,7 @@ class TestDataManager {
         }
     }
 
-    func getLocalTestAsset(forPath path: String) -> Data? {
+    private func getLocalTestAsset(forPath path: String) -> Data? {
         if let path = Bundle(for: TestDataManager.self).path(forResource: path, ofType: ""), let file = FileManager().contents(atPath: path) {
             return file as Data?
         }

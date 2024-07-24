@@ -15,10 +15,10 @@
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
                 <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="7oO-3v-XG4" customClass="ShadowView" customModule="RedditApp" customModuleProvider="target">
-                    <rect key="frame" x="16" y="75" width="361" height="727"/>
+                    <rect key="frame" x="16" y="59" width="361" height="743"/>
                     <subviews>
                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Error message" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qYH-mu-t5k">
-                            <rect key="frame" x="16" y="16" width="329" height="695"/>
+                            <rect key="frame" x="16" y="16" width="329" height="711"/>
                             <fontDescription key="fontDescription" type="system" pointSize="17"/>
                             <nil key="textColor"/>
                             <nil key="highlightedColor"/>
@@ -37,7 +37,7 @@
             <color key="backgroundColor" systemColor="systemBackgroundColor"/>
             <constraints>
                 <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="7oO-3v-XG4" secondAttribute="trailing" constant="16" id="OfH-9L-w0V"/>
-                <constraint firstItem="7oO-3v-XG4" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="16" id="SSq-2p-ybm"/>
+                <constraint firstItem="7oO-3v-XG4" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="SSq-2p-ybm"/>
                 <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="7oO-3v-XG4" secondAttribute="bottom" constant="16" id="cc5-2b-vXB"/>
                 <constraint firstItem="7oO-3v-XG4" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="16" id="nZy-tS-UvE"/>
             </constraints>

@@ -14,7 +14,7 @@ protocol NetworkManagerProtocol {
 class NetworkManager: NetworkManagerProtocol {
     private let decoder = JSONDecoder()
 
-    func get<T: Codable>(endpoint: Endpoint) async -> Result<T, NetworkError> {
+    func get<T: Decodable>(endpoint: Endpoint) async -> Result<T, NetworkError> {
         guard let url = URL(string: endpoint.path) else { return .failure(.invalidUrl) }
 
         do {

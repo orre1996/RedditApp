@@ -9,8 +9,6 @@ import UIKit
 
 extension UIImageView {
     func downloadImage(from url: URL) async {
-        backgroundColor = .black
-
         do {
             let (data, _) = try await URLSession.shared.data(from: url)
 
